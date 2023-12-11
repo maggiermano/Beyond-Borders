@@ -1,5 +1,6 @@
-# CS171-Farm Force
-### Team Members: Roy Onyando, Ivy Tirok, and Maggie Mano
+# Data Visualization Project
+## Beyond Borders
+### By: Ivy Tirok, Maggie Mano and Roy Onyando
 
 ## Project Description
 Moving and choosing a new place to live, whether for work or long-term, can be both exciting and stressful. "Beyond Borders" is an interactive tool crafted to assist international students and newcomers in navigating this significant life decision. It offers a personalized experience where users answer questions to get state recommendations aligning with their preferences. Additionally, the tool provides detailed visualizations and state comparisons, emphasizing demographics, crime rates, housing costs, and climate.
