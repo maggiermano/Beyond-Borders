@@ -1,0 +1,51 @@
+﻿State,Temperature,Rainfall,Snow,Place,Humidity,afternoonHumidity
+AL,17.1,1480,4.1,Birmingham,84,52
+AK,-3,572,189.2,Anchorage,77,64
+AZ,15.7,345,0.8,Tucson,53,25
+AR,15.8,1284,13.2,Fort Smith,85,49
+CA,15.2,563,0,San Diego,76,62
+CO,7.3,405,48.5,Grand Junction,60,35
+CT,9.4,1279,102.9,Hartford,79,52
+DE,12.9,1160,51.3,Wilmington,79,54
+FL,21.5,1385,0,Tampa,87,57
+GA,17.5,1287,1.8,Macon,86,50
+HI,21.1,1618,0,Honolulu,71,56
+ID,6.9,481,48.8,Boise,68,41
+IL,11,996,62.5,Peoria,83,58
+IN,10.9,1060,65.8,Indianapolis,83,58
+IA,8.8,864,88.6,Des Moines,78,56
+KS,12.4,733,37.3,Wichita,80,50
+KY,13.1,1242,31.8,Louisville,79,55
+LA,19.1,1528,0,New Orleans,87,61
+ME,5,1072,157,Portland,82,61
+MD,12.3,1131,51.3,Baltimore,77,52
+MA,8.8,1211,111.3,Boston,75,59
+MI,6.9,833,129.8,Lansing,84,61
+MN,5.1,693,137.2,Minneapolis,78,55
+MS,17.4,1499,2.3,Jackson,91,54
+MO,12.5,1071,43.2,Springfield,82,53
+MT,5.9,390,96.8,Helena,71,45
+NE,9.3,599,65.8,Lincoln,82,53
+NV,9.9,241,55.4,Reno,71,32
+NH,6.6,1103,154.4,Concord,84,53
+NJ,11.5,1196,41.9,Atlantic City,83,59
+NM,11.9,370,24.4,Albuquerque,60,29
+NY,7.4,1062,314.5,Syracuse,82,61
+NC,15,1279,19.3,Greensboro,83,52
+ND,4.7,452,130,Bismarck,80,51
+OH,10.4,993,69.9,Columbus,80,57
+OK,15.3,927,19.8,Oklahoma City,79,48
+OR,9.1,695,7.6,Portland,85,59
+PA,9.3,1089,71.6,Harrisburg,77,54
+RI,10.1,1218,85.9,Providence,78,57
+SC,16.9,1264,1.3,Columbia,86,49
+SD,7.3,511,111.5,Huron,83,53
+TN,14.2,1376,16,Nashville,84,53
+TX,18.2,734,3.8,Dallas,82,49
+UT,9.2,310,142.7,Salt Lake City,67,43
+VT,6.1,1085,206.2,Burlington,77,58
+VA,12.8,1125,26.2,Richmond,84,52
+WA,9.1,976,12.7,Seattle,83,62
+WV,11,1147,157.5,Beckley,83,59
+WI,6.2,829,129.3,Madison,84,58
+WY,5.6,328,232.2,Lander,63,43

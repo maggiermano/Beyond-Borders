@@ -1,0 +1,51 @@
+StateName,StateCode,CostOfLiving,HousingPriceCode
+Alabama,AL,88.8,Medium
+Alaska,AK,124.4,Medium
+Arizona,AZ,107.2,Low
+Arkansas,AR,90.3,High
+California,CA,134.5,High
+Colorado,CO,105.5,High
+Connecticut,CT,113.1,High
+Delaware,DE,102.6,Medium
+Florida,FL,102.3,High
+Georgia,GA,91,Medium
+Hawaii,HI,179,High
+Idaho,ID,106.1,Low
+Illinois,IL,90.8,High
+Indiana,IN,91.5,Medium
+Iowa,IA,89.7,Low
+Kansas,KS,87.7,Low
+Kentucky,KY,93.8,Low
+Louisiana,LA,92,Low
+Maine,ME,111.5,High
+Maryland,MD,119.5,High
+Massachusetts,MA,148.4,Medium
+Michigan,MI,92.7,Low
+Minnesota,MN,94.1,Medium
+Mississippi,MS,85.3,Low
+Missouri,MO,88.4,Low
+Montana,MT,103.7,High
+Nebraska,NE,90.1,Medium
+Nevada,NV,101.3,Low
+New Hampshire,NH,115.1,Medium
+New Jersey,NJ,114.1,High
+New Mexico,NM,94.2,High
+New York,NY,125.1,Medium
+North Carolina,NC,96.1,High
+North Dakota,ND,94.6,High
+Ohio,OH,94,Low
+Oklahoma,OK,86,Low
+Oregon,OR,115.1,High
+Pennsylvania,PA,99,Low
+Rhode Island,RI,110.5,High
+South Carolina,SC,96.5,Medium
+South Dakota,SD,93.8,Medium
+Tennessee,TN,90.4,Medium
+Texas,TX,93,Medium
+Utah,UT,101.5,High
+Vermont,VT,114.9,High
+Virginia,VA,103.1,Medium
+Washington,WA,115.1,High
+West Virginia,WV,90.3,Medium
+Wisconsin,WI,95,Medium
+Wyoming,WY,92.8,Low

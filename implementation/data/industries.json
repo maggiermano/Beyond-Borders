@@ -1,0 +1,1155 @@
+[
+  {
+    "state": "Alabama",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 37.6, "rank": 23},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 23.6, "rank": 29},
+      {"industry": "Professional and Business Services", "revenue": 22, "rank": 27},
+      {"industry": "Education and Healthcare", "revenue": 17.7, "rank": 27},
+      {"industry": "Retail Trade", "revenue": 15.3, "rank": 25},
+      {"industry": "Finance and Insurance", "revenue": 13.2, "rank": 27},
+      {"industry": "Wholesale Trade", "revenue": 12.4, "rank": 28},
+      {"industry": "Construction", "revenue": 7.8, "rank": 30},
+      {"industry": "Entertainment", "revenue": 7.2, "rank": 30},
+      {"industry": "Utilities", "revenue": 6.5, "rank": 17}
+    ],
+    "topCompanies": [
+      {"company":  "Regions Financial Corporation", "Employees":  19406},
+      {"company":  "Vulcan Materials Company", "Employees":  8847},
+      {"company":  "Encompass Health", "Employees":  35536}
+    ]
+  },
+  {
+    "state": "Alaska",
+    "industries": [
+      {"industry": "Mining, quarrying, and oil and gas extraction", "revenue": 9.3, "rank": 9},
+      {"industry": "Transportation", "revenue": 7.4, "rank": 28},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 5.2, "rank": 47},
+      {"industry": "Education and Healthcare", "revenue": 4.5, "rank": 49},
+      {"industry": "Professional and Business Services", "revenue": 3.3, "rank": 47},
+      {"industry": "Retail Trade", "revenue": 2.3, "rank": 49},
+      {"industry": "Construction", "revenue": 2, "rank": 49},
+      {"industry": "Entertainment", "revenue": 1.9, "rank": 48},
+      {"industry": "Manufacturing", "revenue": 1.8, "rank": 50},
+      {"industry": "Wholesale Trade", "revenue": 1.4, "rank": 50}
+    ],
+    "additional_info": [
+      {"fact": "Highest unemployment rate"},
+      {"fact": "Impact of vetoes by Gov. Mike Dunleavy leading to higher taxes and public-sector job losses"}
+    ],
+    "topCompanies": [
+      {"company":  "AOGA", "Employees":  10001},
+      {"company":  "Afognak", "Employees":  7500},
+      {"company":  "Alaska USA", "Employees":  7500}
+    ]
+  },
+  {
+    "state": "Arizona",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 54.2, "rank": 17},
+      {"industry": "Professional and Business Services", "revenue": 39.7, "rank": 20},
+      {"industry": "Education and Healthcare", "revenue": 34, "rank": 19},
+      {"industry": "Manufacturing", "revenue": 28.9, "rank": 27},
+      {"industry": "Finance and Insurance", "revenue": 25.1, "rank": 19},
+      {"industry": "Retail Trade", "revenue": 24.4, "rank": 14},
+      {"industry": "Wholesale Trade", "revenue": 19.5, "rank": 21},
+      {"industry": "Entertainment", "revenue": 16.6, "rank": 18},
+      {"industry": "Construction", "revenue": 16.3, "rank": 17},
+      {"industry": "Information", "revenue": 12.3, "rank": 19}
+    ],
+    "additional_info": [
+      {"fact": "Historical significance of the mining industry"},
+      {"fact": "Tourism as the #1 export industry, bringing $24.4 billion in 2018"}
+    ],
+    "topCompanies": [
+      {"company":  "PetSmart", "Employees":  56000},
+      {"company":  "Banner Health", "Employees":  50000},
+      {"company":  "Circle K", "Employees":  40001}
+    ]
+  },
+  {
+    "state": "Arkansas",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 19.3, "rank": 32},
+      {"industry": "Professional and Business Services", "revenue": 13.8, "rank": 33},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 13.4, "rank": 35},
+      {"industry": "Education and Healthcare", "revenue": 12.1, "rank": 33},
+      {"industry": "Wholesale Trade", "revenue": 9.7, "rank": 32},
+      {"industry": "Retail Trade", "revenue": 8.9, "rank": 35},
+      {"industry": "Finance and Insurance", "revenue": 6.3, "rank": 38},
+      {"industry": "Transportation", "revenue": 5.4, "rank": 35},
+      {"industry": "Construction", "revenue": 4.8, "rank": 36},
+      {"industry": "Entertainment", "revenue": 4.2, "rank": 37}
+    ],
+    "additional_info": [
+      {"fact": "Manufacturing jobs represent 12.7% of Arkansas' workforce"},
+      {"fact": "Arkansas produces half of the rice in the United States"}
+    ],
+    "topCompanies": [
+      {"company":  "Walmart", "Employees":  2300000},
+      {"company":  "Tyson Foods", "Employees":  139000},
+      {"company":  "Americana", "Employees":  63000}
+    ]
+  },
+  {
+    "state": "California",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 504, "rank": 1},
+      {"industry": "Professional and Business Services", "revenue": 397.3, "rank": 1},
+      {"industry": "Manufacturing", "revenue": 320.7, "rank": 1},
+      {"industry": "Information", "revenue": 287.8, "rank": 1},
+      {"industry": "Education and Healthcare", "revenue": 218.3, "rank": 1},
+      {"industry": "Wholesale Trade", "revenue": 158.2, "rank": 1},
+      {"industry": "Finance and Insurance", "revenue": 155.6, "rank": 2},
+      {"industry": "Retail Trade", "revenue": 153.4, "rank": 1},
+      {"industry": "Entertainment", "revenue": 130, "rank": 1},
+      {"industry": "Construction", "revenue": 111.3, "rank": 1}
+    ],
+    "additional_info": [
+      {"fact": "Largest economy in the United States"},
+      {"fact": "Home to major entertainment and fashion industries"},
+      {"fact": "Silicon Valley contributes significantly to the economy"}
+    ],
+    "topCompanies": [
+      {"company":  "Wells Fargo Capital II", "Employees":  274300},
+      {"company":  "Continental", "Employees":  232023},
+      {"company":  "Governor of California", "Employees":  210000}
+    ]
+  },
+  {
+    "state": "Colorado",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 55.2, "rank": 16},
+      {"industry": "Professional and Business Services", "revenue": 54.6, "rank": 16},
+      {"industry": "Education and Healthcare", "revenue": 26.7, "rank": 23},
+      {"industry": "Manufacturing", "revenue": 25.8, "rank": 29},
+      {"industry": "Finance and Insurance", "revenue": 21.9, "rank": 21},
+      {"industry": "Construction", "revenue": 21.2, "rank": 14},
+      {"industry": "Wholesale Trade", "revenue": 20.5, "rank": 20},
+      {"industry": "Information", "revenue": 20.2, "rank": 11},
+      {"industry": "Retail Trade", "revenue": 19.1, "rank": 20},
+      {"industry": "Entertainment", "revenue": 19.1, "rank": 15}
+    ],
+    "additional_info": [
+      {"fact": "Colorado's economy is evenly split between farming, urban services and manufacturing, and the Rocky Mountains"},
+      {"fact": "Services industry, finance industry, and tourism are major contributors"}
+    ],
+    "topCompanies": [
+      {"company":  "JBS USA", "Employees":  78000},
+      {"company":  "DaVita Kidney Care", "Employees":  67000},
+      {"company":  "TTEC", "Employees":  65000}
+    ]
+  },
+  {
+    "state": "Connecticut",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 40, "rank": 20},
+      {"industry": "Finance and Insurance", "revenue": 37.7, "rank": 12},
+      {"industry": "Professional and Business Services", "revenue": 33.7, "rank": 21},
+      {"industry": "Manufacturing", "revenue": 29.7, "rank": 26},
+      {"industry": "Education and Healthcare", "revenue": 28.6, "rank": 22},
+      {"industry": "Wholesale Trade", "revenue": 17.7, "rank": 23},
+      {"industry": "Retail Trade", "revenue": 13.8, "rank": 26},
+      {"industry": "Information", "revenue": 13.6, "rank": 16},
+      {"industry": "Entertainment", "revenue": 9.4, "rank": 28},
+      {"industry": "Construction", "revenue": 8.2, "rank": 29}
+    ],
+    "additional_info": [
+      {"fact": "Over 1,200 digital media companies, including ESPN, are doing business in Connecticut."},
+      {"fact": "Connecticut's other top industries include advanced manufacturing, bioscience, green technology, insurance, and financial services."},
+      {"fact": "Three Fortune 500 companies—Cigna, Aetna, and United Technologies—have headquarters in the state."}
+    ],
+    "topCompanies": [
+      {"company":  "Validus DC Systems", "Employees":  100000},
+      {"company":  "Bollore Inc", "Employees":  79000},
+      {"company":  "Alstom", "Employees":  75000}
+    ]
+  },
+  {
+    "state": "Delaware",
+    "industries": [
+      {"industry": "Finance and Insurance", "revenue": 21.9, "rank": 22},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 10.6, "rank": 41},
+      {"industry": "Professional and Business Services", "revenue": 8.5, "rank": 38},
+      {"industry": "Education and Healthcare", "revenue": 6, "rank": 44},
+      {"industry": "Manufacturing", "revenue": 4.8, "rank": 43},
+      {"industry": "Construction", "revenue": 2.8, "rank": 43},
+      {"industry": "Retail Trade", "revenue": 2.8, "rank": 47},
+      {"industry": "Entertainment", "revenue": 2.1, "rank": 46},
+      {"industry": "Wholesale Trade", "revenue": 2, "rank": 47},
+      {"industry": "Transportation", "revenue": 1.2, "rank": 48}
+    ],
+    "additional_info": [
+      {"fact": "Wilmington is the heart of Delaware’s economy, serving as home to DuPont Co. and other large manufacturers."},
+      {"fact": "The smaller agricultural industry is still vitally important to Delaware's economy, with potatoes, soybeans, corn, and dairy products as top exports."},
+      {"fact": "The state's proximity to the Atlantic Ocean has significantly expanded the fishing industry with the growing export of crabs, clams, and oysters."}
+    ],
+    "topCompanies": [
+      {"company":  "Delaware State Government", "Employees":  350000},
+      {"company":  "NestIAc", "Employees":  328000},
+      {"company":  "Johnson Controls Holding Company Inc", "Employees":  105000}
+    ]
+  },
+  {
+    "state": "Florida",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 172.5, "rank": 4},
+      {"industry": "Professional and Business Services", "revenue": 136.6, "rank": 4},
+      {"industry": "Education and Healthcare", "revenue": 100, "rank": 4},
+      {"industry": "Retail Trade", "revenue": 74, "rank": 3},
+      {"industry": "Wholesale Trade", "revenue": 70.8, "rank": 4},
+      {"industry": "Finance and Insurance", "revenue": 66.4, "rank": 5},
+      {"industry": "Entertainment", "revenue": 63.7, "rank": 4},
+      {"industry": "Manufacturing", "revenue": 56.2, "rank": 13},
+      {"industry": "Construction", "revenue": 55.1, "rank": 3},
+      {"industry": "Information", "revenue": 41.6, "rank": 7}
+    ],
+    "additional_info": [
+      {"fact": "Florida is the world’s biggest travel destination, attributing 10% of its GDP to tourism."},
+      {"fact": "The southeastern region of the state leads the state's farming industry, producing about two-thirds of the oranges in the United States."},
+      {"fact": "Florida is one of only seven states with no state income tax, thanks to the incredibly successful tourism industry."}
+    ],
+    "topCompanies": [
+      {"company":  "DPWN Holdings(USA), Inc", "Employees":  546924},
+      {"company":  "Publix", "Employees":  225000},
+      {"company":  "Jabil", "Employees":  200001}
+    ]
+  },
+  {
+    "state": "Georgia",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 74.1, "rank": 11},
+      {"industry": "Professional and Business Services", "revenue": 72.8, "rank": 11},
+      {"industry": "Manufacturing", "revenue": 63.3, "rank": 11},
+      {"industry": "Finance and Insurance", "revenue": 47.8, "rank": 10},
+      {"industry": "Information", "revenue": 46.2, "rank": 6},
+      {"industry": "Education and Healthcare", "revenue": 45.3, "rank": 12},
+      {"industry": "Wholesale Trade", "revenue": 45, "rank": 7},
+      {"industry": "Retail Trade", "revenue": 32, "rank": 11},
+      {"industry": "Transportation", "revenue": 25.3, "rank": 7},
+      {"industry": "Construction", "revenue": 24.8, "rank": 8}
+    ],
+    "additional_info": [
+      {"fact": "Although most Georgians work in the service industry, the state's economy has roots in the agricultural sector."},
+      {"fact": "One in seven workers in Georgia toils in agricultural fields, where cotton, peanuts, pecans, eggs, and the famous Georgia peaches are harvested."},
+      {"fact": "The state's roots in cotton have also contributed to a rich textile industry today, especially in smaller cities like Macon, Rome, and Augusta."}
+    ],
+    "topCompanies": [
+      {"company":  "The Home Depot", "Employees":  500001},
+      {"company":  "UPS", "Employees":  481000},
+      {"company":  "DHL", "Employees":  400000}
+    ]
+  },
+  {
+    "state": "Hawaii",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 18.9, "rank": 34},
+      {"industry": "Entertainment", "revenue": 9.6, "rank": 27},
+      {"industry": "Professional and Business Services", "revenue": 8, "rank": 40},
+      {"industry": "Education and Healthcare", "revenue": 7.2, "rank": 42},
+      {"industry": "Retail Trade", "revenue": 6.1, "rank": 37},
+      {"industry": "Construction", "revenue": 5.4, "rank": 34},
+      {"industry": "Transportation", "revenue": 5.2, "rank": 36},
+      {"industry": "Finance and Insurance", "revenue": 3.4, "rank": 44},
+      {"industry": "Wholesale Trade", "revenue": 2.8, "rank": 45},
+      {"industry": "Other services (except government and government enterprises)", "revenue": 2.1, "rank": 38}
+    ],
+    "additional_info": [
+      {"fact": "Tourism is the economic backbone of Hawaii, supplying most of the state's jobs and $1.96 billion in 2017 tax revenue."},
+      {"fact": "Visitor spending in Hawaii reached $16.78 billion in 2017."},
+      {"fact": "Defense is also a large part of the Hawaiian economy, with Army, Navy, Air Force, Marine, and Coast Guard bases on the islands."}
+    ],
+    "topCompanies": [
+      {"company":  "Obayashi", "Employees":  14359},
+      {"company":  "University of Hawaii Foundation", "Employees":  12000},
+      {"company":  "Hawaii State Department of Education", "Employees":  10001}
+    ]
+  },
+  {
+    "state": "Idaho",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 10.7, "rank": 40},
+      {"industry": "Manufacturing", "revenue": 8.6, "rank": 37},
+      {"industry": "Professional and Business Services", "revenue": 8, "rank": 41},
+      {"industry": "Education and Healthcare", "revenue": 7, "rank": 43},
+      {"industry": "Retail Trade", "revenue": 6, "rank": 38},
+      {"industry": "Construction", "revenue": 5.1, "rank": 35},
+      {"industry": "Wholesale Trade", "revenue": 4.6, "rank": 39},
+      {"industry": "Finance and Insurance", "revenue": 3.5, "rank": 42},
+      {"industry": "Entertainment", "revenue": 3.1, "rank": 41},
+      {"industry": "Agriculture", "revenue": 3.1, "rank": 18}
+    ],
+    "additional_info": [
+      {"fact": "Idaho is famous for its potatoes, supplying almost 30% of all potatoes in the United States."},
+      {"fact": "The entire agricultural industry is particularly strong in Idaho."},
+      {"fact": "The health care and food processing industries are also growing quickly."},
+      {"fact": "The revenue for the healthcare industry in Idaho has risen 46% in the past 10 years and is projected to add another 36% in the upcoming years, putting Idaho at second in the country for health care growth."}
+    ],
+    "topCompanies": [
+      {"company":  "Albertsons", "Employees":  325000},
+      {"company":  "Micron Technology", "Employees":  49000},
+      {"company":  "AMI Semiconductor", "Employees":  36000}
+    ]
+  },
+  {
+    "state": "Illinois",
+    "industries": [
+      {"industry": "Professional and Business Services", "revenue": 118.4, "rank": 5},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 108.9, "rank": 5},
+      {"industry": "Manufacturing", "revenue": 107.7, "rank": 4},
+      {"industry": "Finance and Insurance", "revenue": 88.7, "rank": 4},
+      {"industry": "Education and Healthcare", "revenue": 75.6, "rank": 6},
+      {"industry": "Wholesale Trade", "revenue": 67.4, "rank": 5},
+      {"industry": "Retail Trade", "revenue": 41.5, "rank": 6},
+      {"industry": "Entertainment", "revenue": 36, "rank": 5},
+      {"industry": "Transportation", "revenue": 35.2, "rank": 4},
+      {"industry": "Construction", "revenue": 30.4, "rank": 6}
+    ],
+    "additional_info": [
+      {"fact": "Business is booming in Illinois despite a recent population decline."},
+      {"fact": "Illinois houses the headquarters of Walgreens, Boeing, State Farm, Sears, and United."},
+      {"fact": "Illinois is also a significant leader in clean energy with several wind farms and ethanol fuel production."},
+      {"fact": "The largest industries in the state are manufacturing, education, agriculture, energy, and biotechnology."}
+    ],
+    "topCompanies": [
+      {"company":  "Accenture", "Employees":  674000},
+      {"company":  "Allegiance Properties", "Employees":  561720},
+      {"company":  "City Garden Waldorf School", "Employees":  227925}
+    ]
+  },
+  {
+    "state": "Indiana",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 100.7, "rank": 6},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 36.3, "rank": 23},
+      {"industry": "Education and Healthcare", "revenue": 35, "rank": 18},
+      {"industry": "Professional and Business Services", "revenue": 31.7, "rank": 23},
+      {"industry": "Finance and Insurance", "revenue": 21.2, "rank": 25},
+      {"industry": "Wholesale Trade", "revenue": 20.6, "rank": 19},
+      {"industry": "Retail Trade", "revenue": 20.1, "rank": 17},
+      {"industry": "Construction", "revenue": 14.1, "rank": 19},
+      {"industry": "Entertainment", "revenue": 13.5, "rank": 20},
+      {"industry": "Transportation", "revenue": 13.2, "rank": 17}
+    ],
+    "additional_info": [
+      {"fact": "The top industry in the Hoosier State is manufacturing, which contributes more gross product to Indiana than most other states."},
+      {"fact": "Indiana is a leading manufacturer of transportation equipment and houses a number of automobile plants."},
+      {"fact": "The state generates most of its revenue through the service industry, mostly comprised of wholesale and Retail Trade."}
+    ],
+    "topCompanies": [
+      {"company":  "Koch Enterprises", "Employees":  120000},
+      {"company":  "Anthem", "Employees":  63900},
+      {"company":  "Cummins", "Employees":  57825}
+    ]
+  },
+  {
+    "state": "Iowa",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 33.6, "rank": 25},
+      {"industry": "Finance and Insurance", "revenue": 25.9, "rank": 18},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 19.5, "rank": 32},
+      {"industry": "Education and Healthcare", "revenue": 14.4, "rank": 30},
+      {"industry": "Professional and Business Services", "revenue": 12.7, "rank": 34},
+      {"industry": "Wholesale Trade", "revenue": 11.4, "rank": 29},
+      {"industry": "Retail Trade", "revenue": 9.9, "rank": 33},
+      {"industry": "Agriculture", "revenue": 8.5, "rank": 3},
+      {"industry": "Construction", "revenue": 7.7, "rank": 31},
+      {"industry": "Transportation", "revenue": 6.4, "rank": 32}
+    ],
+    "additional_info": [
+      {"fact": "Despite having a population of just 3 million, Iowa has significant industries."},
+      {"fact": "Iowa is a leading producer of hogs and livestock, beef cattle, milk, chicken, and eggs."},
+      {"fact": "Manufacturing is another leading industry, especially food processing."}
+    ],
+    "topCompanies": [
+      {"company":  "Hy-Vee", "Employees":  88000},
+      {"company":  "United Coop Hampton", "Employees":  87500},
+      {"company":  "Eurofins", "Employees":  48000}
+    ]
+  },
+  {
+    "state": "Kansas",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 27.6, "rank": 28},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 20.2, "rank": 31},
+      {"industry": "Professional and Business Services", "revenue": 18.1, "rank": 30},
+      {"industry": "Education and Healthcare", "revenue": 13.7, "rank": 31},
+      {"industry": "Wholesale Trade", "revenue": 11, "rank": 31},
+      {"industry": "Retail Trade", "revenue": 10.1, "rank": 32},
+      {"industry": "Finance and Insurance", "revenue": 9.2, "rank": 34},
+      {"industry": "Transportation", "revenue": 7.2, "rank": 29},
+      {"industry": "Information", "revenue": 6.5, "rank": 26},
+      {"industry": "Construction", "revenue": 6.3, "rank": 33}
+    ],
+    "additional_info": [
+      {"fact": "Kansas is another important agricultural state, ranking seventh in the nation for total agricultural production."},
+      {"fact": "The state is the top wheat producer in the nation, accounting for 12% of Kansas' total agriculture."},
+      {"fact": "Mining is also an important industry, with almost every county in the state involved in some kind of mineral production."}
+    ],
+    "topCompanies": [
+      {"company":  "Koch & Co", "Employees":  120000},
+      {"company":  "Koch Industries", "Employees":  100000},
+      {"company":  "ASE GROUP", "Employees":  65695}
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 37.7, "rank": 22},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 21.6, "rank": 30},
+      {"industry": "Education and Healthcare", "revenue": 20, "rank": 26},
+      {"industry": "Professional and Business Services", "revenue": 17.9, "rank": 31},
+      {"industry": "Wholesale Trade", "revenue": 14.2, "rank": 24},
+      {"industry": "Retail Trade", "revenue": 12.2, "rank": 27},
+      {"industry": "Finance and Insurance", "revenue": 12.1, "rank": 29},
+      {"industry": "Transportation", "revenue": 10.4, "rank": 23},
+      {"industry": "Construction", "revenue": 8.7, "rank": 27},
+      {"industry": "Entertainment", "revenue": 7.9, "rank": 29}
+    ],
+    "additional_info": [
+      {"fact": "Fourteen percent of Kentucky's large manufacturing industry comprises food and beverage products."},
+      {"fact": "A third of the country's top 100 food processing companies have facilities in Kentucky, including Kellogg and Nestle."},
+      {"fact": "Kentucky produces 95% of the world's bourbon."}
+    ],
+    "topCompanies": [
+      {"company":  "KFC", "Employees":  820000},
+      {"company":  "Joseph's Salon & Spa", "Employees":  100000},
+      {"company":  "Sumitomo Corporation", "Employees":  74638}
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 52.2, "rank": 18},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 26, "rank": 26},
+      {"industry": "Professional and Business Services", "revenue": 22.3, "rank": 26},
+      {"industry": "Education and Healthcare", "revenue": 22.1, "rank": 25},
+      {"industry": "Retail Trade", "revenue": 16.1, "rank": 23},
+      {"industry": "Construction", "revenue": 13.7, "rank": 22},
+      {"industry": "Wholesale Trade", "revenue": 13.4, "rank": 26},
+      {"industry": "Mining, quarrying, and oil and gas extraction", "revenue": 12.2, "rank": 6},
+      {"industry": "Finance and Insurance", "revenue": 11.9, "rank": 30},
+      {"industry": "Entertainment", "revenue": 11.8, "rank": 23}
+    ],
+    "additional_info": [
+      {"fact": "Louisiana has one of the largest concentrations of oil refineries in the country."},
+      {"fact": "Gas production has been a stable source of revenue for the state."},
+      {"fact": "Louisiana is increasingly expanding its chemical industry, accounting for $79.7 billion in sales according to a 2018 study from the Louisiana Chemical Association."}
+    ],
+    "topCompanies": [
+      {"company":  "Delta Electronics", "Employees":  83001},
+      {"company":  "Morgan and Company", "Employees":  60348},
+      {"company":  "CenturyLink", "Employees":  42500}
+    ]
+  },
+  {
+    "state": "Maine",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 9.3, "rank": 42},
+      {"industry": "Education and Healthcare", "revenue": 8.7, "rank": 38},
+      {"industry": "Professional and Business Services", "revenue": 7, "rank": 43},
+      {"industry": "Manufacturing", "revenue": 6.2, "rank": 40},
+      {"industry": "Retail Trade", "revenue": 5.1, "rank": 41},
+      {"industry": "Finance and Insurance", "revenue": 4.1, "rank": 41},
+      {"industry": "Entertainment", "revenue": 3.6, "rank": 39},
+      {"industry": "Wholesale Trade", "revenue": 3.5, "rank": 42},
+      {"industry": "Construction", "revenue": 2.4, "rank": 45},
+      {"industry": "Transportation", "revenue": 1.5, "rank": 45}
+    ],
+    "additional_info": [
+      {"fact": "An astounding 90% of Maine is forested, making foresting one of the leading industries in the state."},
+      {"fact": "The paper-producing industry in Maine has been shrinking with the introduction of digital media and foreign competition."},
+      {"fact": "Tourism has taken root in Maine, with people from around the world flocking to the picturesque Acadia National Park and Baxter State Park, where the Appalachian Trail reaches its northern limit."}
+    ],
+    "topCompanies": [
+      {"company":  "The Baker Company", "Employees":  66000},
+      {"company":  "Hannaford Supermarket", "Employees":  25000},
+      {"company":  "J D Irving Limited", "Employees":  18000}
+    ]
+  },
+  {
+    "state": "Maryland",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 68.9, "rank": 13},
+      {"industry": "Professional and Business Services", "revenue": 58.3, "rank": 15},
+      {"industry": "Education and Healthcare", "revenue": 37.8, "rank": 17},
+      {"industry": "Manufacturing", "revenue": 24.4, "rank": 30},
+      {"industry": "Finance and Insurance", "revenue": 22.6, "rank": 20},
+      {"industry": "Retail Trade", "revenue": 20.1, "rank": 18},
+      {"industry": "Construction", "revenue": 18.2, "rank": 16},
+      {"industry": "Wholesale Trade", "revenue": 17.7, "rank": 22},
+      {"industry": "Information", "revenue": 17.7, "rank": 14},
+      {"industry": "Entertainment", "revenue": 16.1, "rank": 19}
+    ],
+    "additional_info": [
+      {"fact": "Maryland's economic growth attributed to information technology, telecommunications, aerospace and defense, and biotechnology."},
+      {"fact": "Home to the National Institutes of Health, NASA, the Goddard Space Flight Center, and many Defense Department operations."},
+      {"fact": "Proximity to the Chesapeake Bay fuels its commercial fishing industry, providing half of the nation's blue crab harvest."}
+    ],
+    "topCompanies": [
+      {"company":  "Marriott International", "Employees":  121000},
+      {"company":  "Lockheed Martin", "Employees":  115000},
+      {"company":  "CEVA Logistics", "Employees":  98000}
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "industries": [
+      {"industry": "Professional and Business Services", "revenue": 102.4, "rank": 7},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 80.6, "rank": 8},
+      {"industry": "Education and Healthcare", "revenue": 69.7, "rank": 7},
+      {"industry": "Finance and Insurance", "revenue": 52.8, "rank": 7},
+      {"industry": "Manufacturing", "revenue": 52.6, "rank": 15},
+      {"industry": "Information", "revenue": 31.7, "rank": 8},
+      {"industry": "Wholesale Trade", "revenue": 27.6, "rank": 13},
+      {"industry": "Entertainment", "revenue": 23.4, "rank": 9},
+      {"industry": "Retail Trade", "revenue": 22.4, "rank": 16},
+      {"industry": "Construction", "revenue": 21.1, "rank": 15}
+    ],
+    "additional_info": [
+      {"fact": "Education and health services industries employ the most people in Massachusetts."},
+      {"fact": "Manufacturing is a significant part of the economy, producing many computer and electronic products."},
+      {"fact": "Technology sector rapidly growing, making it among the most concentrated technology industries in the United States."}
+    ],
+    "topCompanies": [
+      {"company":  "General Electric", "Employees":  305000},
+      {"company":  "The TJK Companies", "Employees":  270000},
+      {"company":  "Dunkin Brands", "Employees":  270000}
+    ]
+  },
+  {
+    "state": "Michigan",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 99.2, "rank": 7},
+      {"industry": "Professional and Business Services", "revenue": 70.5, "rank": 12},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 63.3, "rank": 15},
+      {"industry": "Education and Healthcare", "revenue": 49.5, "rank": 10},
+      {"industry": "Wholesale Trade", "revenue": 34.8, "rank": 10},
+      {"industry": "Retail Trade", "revenue": 32, "rank": 10},
+      {"industry": "Finance and Insurance", "revenue": 27.3, "rank": 15},
+      {"industry": "Construction", "revenue": 21.4, "rank": 11},
+      {"industry": "Entertainment", "revenue": 19.1, "rank": 16},
+      {"industry": "Transportation", "revenue": 13.6, "rank": 14}
+    ],
+    "additional_info": [
+      {"fact": "Automobile sales in Michigan boost jobs, raise home prices, and contribute to tourist communities."},
+      {"fact": "City of Grand Rapids has low unemployment rates, and Ann Arbor attracts consistent investment."},
+      {"fact": "Economy dependent on 'big three' automakers—General Motors, Ford, and Fiat Chrysler."}
+    ],
+    "topCompanies": [
+      {"company":  "Bosch USA", "Employees":  398150},
+      {"company":  "Ford Motor", "Employees":  186000},
+      {"company":  "Lear", "Employees":  174600}
+    ]
+  },
+  {
+    "state": "Minnesota",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 52.2, "rank": 17},
+      {"industry": "Professional and Business Services", "revenue": 48.5, "rank": 17},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 40.5, "rank": 18},
+      {"industry": "Education and Healthcare", "revenue": 39.6, "rank": 14},
+      {"industry": "Finance and Insurance", "revenue": 32.9, "rank": 13},
+      {"industry": "Wholesale Trade", "revenue": 25.5, "rank": 14},
+      {"industry": "Retail Trade", "revenue": 19.8, "rank": 19},
+      {"industry": "Construction", "revenue": 14.5, "rank": 18},
+      {"industry": "Entertainment", "revenue": 12.8, "rank": 22},
+      {"industry": "Information", "revenue": 12.2, "rank": 20}
+    ],
+    "additional_info": [
+      {"fact": "Education and health services account for the highest percentage of Minnesota’s workforce."},
+      {"fact": "Manufacturing and Retail Trade contribute major amounts of revenue to the state's economy."},
+      {"fact": "Home to 17 Fortune 500 companies, including Target, General Mills, 3M, and United Health Group."}
+    ],
+    "topCompanies": [
+      {"company":  "Aeon", "Employees":  500001},
+      {"company":  "Target", "Employees":  409000},
+      {"company":  "Siemens", "Employees":  303000}
+    ]
+  },
+  {
+    "state": "Mississippi",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 18.8, "rank": 33},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 12, "rank": 39},
+      {"industry": "Education and Healthcare", "revenue": 10, "rank": 36},
+      {"industry": "Retail Trade", "revenue": 9, "rank": 34},
+      {"industry": "Professional and Business Services", "revenue": 8.3, "rank": 39},
+      {"industry": "Wholesale Trade", "revenue": 6.2, "rank": 36},
+      {"industry": "Finance and Insurance", "revenue": 5.6, "rank": 40},
+      {"industry": "Entertainment", "revenue": 5.2, "rank": 34},
+      {"industry": "Transportation", "revenue": 4.3, "rank": 38},
+      {"industry": "Construction", "revenue": 4.3, "rank": 38}
+    ],
+    "additional_info": [
+      {"fact": "Mississippi has the country's lowest cost of living and a strong agricultural economy."},
+      {"fact": "World's largest producer of pond-raised catfish and a leading state in cotton growth."},
+      {"fact": "Manufacturing represents the top industry, introduced in 1936 with the 'Balance Agriculture with Industry (BAWI)' plan."}
+    ],
+    "topCompanies": [
+      {"company":  "Sanderson Farms", "Employees":  17001},
+      {"company":  "Southern Tire Mart", "Employees":  10001},
+      {"company":  "Hood Companies", "Employees":  8450}
+    ]
+  },
+  {
+    "state": "Missouri",
+    "industries": [
+      {"industry": "Professional and Business Services", "revenue": 42.3, "rank": 18},
+      {"industry": "Manufacturing", "revenue": 39, "rank": 20},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 35.6, "rank": 24},
+      {"industry": "Education and Healthcare", "revenue": 33.3, "rank": 21},
+      {"industry": "Finance and Insurance", "revenue": 26.1, "rank": 17},
+      {"industry": "Wholesale Trade", "revenue": 21.2, "rank": 17},
+      {"industry": "Retail Trade", "revenue": 18.6, "rank": 22},
+      {"industry": "Entertainment", "revenue": 13, "rank": 21},
+      {"industry": "Information", "revenue": 12.9, "rank": 18},
+      {"industry": "Construction", "revenue": 11.7, "rank": 24}
+    ],
+    "additional_info": [
+      {"fact": "Main manufacturers are aerospace and transportation, followed by food products, chemicals, machinery, metals, and electrical equipment."},
+      {"fact": "Agriculture remains important with over 100,000 farms; among the top five in the country for soybean production."},
+      {"fact": "Known for exports of beef, pork, dairy products, corn, and poultry."}
+    ],
+    "topCompanies": [
+      {"company":  "Ascension Michigan", "Employees":  150000},
+      {"company":  "Panera Bread", "Employees":  140000},
+      {"company":  "CCO HOLDINGS LLC", "Employees":  93700}
+    ]
+  },
+  {
+    "state": "Montana",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 7.1, "rank": 45},
+      {"industry": "Education and Healthcare", "revenue": 5.4, "rank": 46},
+      {"industry": "Professional and Business Services", "revenue": 3.9, "rank": 45},
+      {"industry": "Manufacturing", "revenue": 3.3, "rank": 46},
+      {"industry": "Retail Trade", "revenue": 3.2, "rank": 45},
+      {"industry": "Construction", "revenue": 2.9, "rank": 42},
+      {"industry": "Wholesale Trade", "revenue": 2.7, "rank": 46},
+      {"industry": "Finance and Insurance", "revenue": 2.6, "rank": 47},
+      {"industry": "Entertainment", "revenue": 2.6, "rank": 44},
+      {"industry": "Transportation", "revenue": 2.3, "rank": 44}
+    ],
+    "additional_info": [
+      {"fact": "Livestock and agriculture have always been important sources of revenue for Montana."},
+      {"fact": "Economy diversified from 2000 to 2015, with growth in health care, social assistance, real estate, and food services."},
+      {"fact": "Federal lands in the western part attract tourists to places like Glacier National Park and Missoula."}
+    ],
+    "topCompanies": [
+      {"company":  "Schneider", "Employees":  19600},
+      {"company":  "Fringe Benefit Resources", "Employees":  12000},
+      {"company":  "Billings Clinic", "Employees":  7500}
+    ]
+  },
+  {
+    "state": "Nebraska",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 13.5, "rank": 35},
+      {"industry": "Finance and Insurance", "revenue": 12.5, "rank": 28},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 12.3, "rank": 37},
+      {"industry": "Professional and Business Services", "revenue": 11.5, "rank": 35},
+      {"industry": "Education and Healthcare", "revenue": 10.6, "rank": 35},
+      {"industry": "Transportation", "revenue": 10.4, "rank": 22},
+      {"industry": "Wholesale Trade", "revenue": 7.6, "rank": 34},
+      {"industry": "Retail Trade", "revenue": 6.7, "rank": 36},
+      {"industry": "Agriculture", "revenue": 6, "rank": 6},
+      {"industry": "Utilities", "revenue": 3.9, "rank": 27}
+    ],
+    "additional_info": [
+      {"fact": "Nebraska depends heavily on its agricultural industry, particularly corn, livestock, and ethanol production."},
+      {"fact": "Cornhusker State is among the top three corn-producing states in the country."},
+      {"fact": "Nebraska produces the second-highest amount of ethanol and operates 25 plants yielding 2 billion gallons annually."}
+    ],
+    "topCompanies": [
+      {"company":  "Berkshire Hathaway", "Employees":  360000},
+      {"company":  "Medical Solutions", "Employees":  50000},
+      {"company":  "Union Pacific", "Employees":  30960}
+    ]
+  },
+  {
+    "state": "Nevada",
+    "industries": [
+      {"industry": "Entertainment", "revenue": 27.9, "rank": 6},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 25.4, "rank": 27},
+      {"industry": "Professional and Business Services", "revenue": 19, "rank": 29},
+      {"industry": "Retail Trade", "revenue": 11.6, "rank": 30},
+      {"industry": "Education and Healthcare", "revenue": 11.3, "rank": 34},
+      {"industry": "Finance and Insurance", "revenue": 9.2, "rank": 33},
+      {"industry": "Construction", "revenue": 8.6, "rank": 28},
+      {"industry": "Manufacturing", "revenue": 7.9, "rank": 39},
+      {"industry": "Transportation", "revenue": 7.9, "rank": 27},
+      {"industry": "Wholesale Trade", "revenue": 7, "rank": 35}
+    ],
+    "additional_info": "As the home of Las Vegas, Nevada rakes in huge amounts of cash from its tourism and gaming industries. Almost 400,000 people are employed by the city's hotels, casinos, and other attractions, and about 2,500 jobs are added each year. Outside of Vegas, Nevada also has a thriving aerospace industry, thanks to Nellis Air Force Base in the southern region of the state. The base employs 12,000 civilian and military workers.",
+    "topCompanies": [
+      {"company":  "MGM Resorts International", "Employees":  74500},
+      {"company":  "Cox Holdings, Inc", "Employees":  55000},
+      {"company":  "Caesar Entertainment", "Employees":  54000}
+    ]
+  },
+  {
+    "state": "New Hampshire",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 12.2, "rank": 38},
+      {"industry": "Professional and Business Services", "revenue": 11, "rank": 36},
+      {"industry": "Education and Healthcare", "revenue": 9.8, "rank": 37},
+      {"industry": "Manufacturing", "revenue": 9.7, "rank": 36},
+      {"industry": "Finance and Insurance", "revenue": 6.8, "rank": 37},
+      {"industry": "Retail Trade", "revenue": 5.5, "rank": 40},
+      {"industry": "Wholesale Trade", "revenue": 5.4, "rank": 37},
+      {"industry": "Entertainment", "revenue": 4.4, "rank": 36},
+      {"industry": "Information", "revenue": 3.3, "rank": 36},
+      {"industry": "Construction", "revenue": 2.6, "rank": 44}
+    ],
+    "additional_info": "New Hampshire has built its success off of neighboring Massachusetts to move from historic paper and grain mills to electronic component manufacturing and other high-tech industries. Today, smart manufacturing is the most important part of the state's economy and accounts for 19% of wages paid within the state. New Hampshire is also a popular area for people looking to purchase second homes, and many of the state's vacation homes are owned by people from elsewhere who rent houses to tourists.",
+    "topCompanies": [
+      {"company":  "Timberland", "Employees":  50000},
+      {"company":  "C&S wholesale Grocers", "Employees":  17000},
+      {"company":  "Southern New Hampshire University", "Employees":  8498}
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "industries": [
+      {"industry": "Professional and Business Services", "revenue": 100.9, "rank": 9},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 99.9, "rank": 6},
+      {"industry": "Education and Healthcare", "revenue": 57.6, "rank": 9},
+      {"industry": "Manufacturing", "revenue": 52.3, "rank": 16},
+      {"industry": "Wholesale Trade", "revenue": 51.8, "rank": 6},
+      {"industry": "Finance and Insurance", "revenue": 42.2, "rank": 11},
+      {"industry": "Retail Trade", "revenue": 35, "rank": 9},
+      {"industry": "Information", "revenue": 26.7, "rank": 10},
+      {"industry": "Construction", "revenue": 23.3, "rank": 10},
+      {"industry": "Transportation", "revenue": 22.8, "rank": 9}
+    ],
+    "additional_info": "New Jersey boasts numerous information and technology companies, as well as pharmaceutical and biotech companies, but is also home to industrial giants like Johnson & Johnson. Tourism has always been an important component of New Jersey's economy, thanks to the state's proximity to New York City, the Jersey Shore, and Atlantic City, which all attract millions of visitors each year. However, in the past decade, the tourism industry has decreased, forcing some Atlantic City casinos to close.",
+    "topCompanies": [
+      {"company":  "Cognizant", "Employees":  330600},
+      {"company":  "Panasonic", "Employees":  271869},
+      {"company":  "Wipro Limited", "Employees":  231671}
+    ]
+  },
+  {
+    "state": "New Mexico",
+    "industries": [
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 13.1, "rank": 36},
+      {"industry": "Professional and Business Services", "revenue": 10.5, "rank": 37},
+      {"industry": "Mining, quarrying, and oil and gas extraction", "revenue": 10.5, "rank": 8},
+      {"industry": "Education and Healthcare", "revenue": 8.1, "rank": 40},
+      {"industry": "Retail Trade", "revenue": 5.7, "rank": 39},
+      {"industry": "Manufacturing", "revenue": 4.2, "rank": 44},
+      {"industry": "Entertainment", "revenue": 4.1, "rank": 38},
+      {"industry": "Construction", "revenue": 3.7, "rank": 39},
+      {"industry": "Finance and Insurance", "revenue": 3.4, "rank": 43},
+      {"industry": "Wholesale Trade", "revenue": 3.1, "rank": 44}
+    ],
+    "additional_info": "Since 2007, the health care sector in New Mexico has steadily grown, adding almost 15,000 new jobs, and it is projected to grow the most out of any sector in the state. This industry is led by the New Mexico Veterans Affairs Health Care System, Lovelace Health Systems, and Presbyterian Health Systems, where practitioners earn an average salary of $73,000. Although the retail industry has shrunk, it is still among the largest operating in New Mexico and is thought to be one of five industries to significantly expand by 2020.",
+    "topCompanies": [
+      {"company":  "SunBridge Healthcare Corp", "Employees":  38300},
+      {"company":  "Citizens Bank - NM", "Employees":  22000},
+      {"company":  "Akal Security", "Employees":  12000}
+    ]
+  },
+  {
+    "state": "New York",
+    "industries": [
+      {"industry": "Finance and Insurance", "revenue": 309.2, "rank": 1},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 238, "rank": 2},
+      {"industry": "Professional and Business Services", "revenue": 218.1, "rank": 2},
+      {"industry": "Education and Healthcare", "revenue": 158.7, "rank": 2},
+      {"industry": "Information", "revenue": 132.6, "rank": 2},
+      {"industry": "Wholesale Trade", "revenue": 75.7, "rank": 3},
+      {"industry": "Entertainment", "revenue": 73.9, "rank": 2},
+      {"industry": "Manufacturing", "revenue": 71.7, "rank": 9},
+      {"industry": "Retail Trade", "revenue": 71.4, "rank": 4},
+      {"industry": "Construction", "revenue": 51.2, "rank": 4}
+    ],
+    "additional_info": "New York is famous for its Wall Street-centric economy, and for many businesses, the state is the financial epicenter of the world. The New York Stock Exchange is the world's largest stock exchange, with a market capitalization of more than a whopping $20 trillion. And if that weren't enough, New York City is the headquarters for five of the country's 10 largest banks, including Morgan Stanley, Citigroup, and JPMorgan Chase.",
+    "topCompanies": [
+      {"company":  "Duane Reade Holdings, Inc", "Employees":  415000},
+      {"company":  "Deloitte", "Employees":  334800},
+      {"company":  "Pwc", "Employees":  295000}
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 100.7, "rank": 5},
+      {"industry": "Professional and Business Services", "revenue": 68.1, "rank": 13},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 64.4, "rank": 14},
+      {"industry": "Finance and Insurance", "revenue": 49.2, "rank": 9},
+      {"industry": "Education and Healthcare", "revenue": 45.3, "rank": 11},
+      {"industry": "Wholesale Trade", "revenue": 32.7, "rank": 11},
+      {"industry": "Retail Trade", "revenue": 28.8, "rank": 12},
+      {"industry": "Construction", "revenue": 21.4, "rank": 12},
+      {"industry": "Entertainment", "revenue": 21.3, "rank": 12},
+      {"industry": "Information", "revenue": 20, "rank": 12}
+    ],
+    "additional_info": "North Carolina's top manufactured products are tobacco, chemicals, and computer and electronic products. However, the state also has a rich services industry, with metropolitan areas hosting a variety of finance, insurance, and real estate businesses. The North Carolina coastline also lends itself to booming commercial fishing; its most valuable products are blue crabs, clams, flounder, and shrimp.",
+    "topCompanies": [
+      {"company":  "Compass Group USA", "Employees":  478070},
+      {"company":  "Lowe's Companies", "Employees":  300000},
+      {"company":  "Bank of America Mortgage Capital Corporation", "Employees":  204489}
+    ]
+  },
+  {
+    "state": "North Dakota",
+    "industries": [
+      {"industry": "Mining, quarrying, and oil and gas extraction", "revenue": 6.7, "rank": 12},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 6.5, "rank": 46},
+      {"industry": "Wholesale Trade", "revenue": 4.6, "rank": 38},
+      {"industry": "Education and Healthcare", "revenue": 4.6, "rank": 48},
+      {"industry": "Manufacturing", "revenue": 4, "rank": 45},
+      {"industry": "Professional and Business Services", "revenue": 3.3, "rank": 48},
+      {"industry": "Agriculture", "revenue": 3.2, "rank": 17},
+      {"industry": "Construction", "revenue": 3.2, "rank": 41},
+      {"industry": "Retail Trade", "revenue": 3, "rank": 46},
+      {"industry": "Transportation", "revenue": 2.9, "rank": 40}
+    ],
+    "additional_info": "Oil and gas production is an important part of North Dakota's economy, and it has significantly expanded in recent years. In 2004, oil and gas production accounted for 2% of the state's economy, but by 2014, the total was 16%. Still, the education, finance, trade, and transportation sectors employ many more people in North Dakota than the mining and logging industry. Agriculture is also a core component of the state's revenue since 90% of North Dakota's land is dedicated to farming.",
+    "topCompanies": [
+      {"company":  "Noridian Mutual Insurance Company", "Employees":  16000},
+      {"company":  "MDU Resources", "Employees":  10140},
+      {"company":  "State of North Dakota", "Employees":  10001}
+    ]
+  },
+  {
+    "state": "Ohio",
+    "industries": [
+      {"industry": "Manufacturing", "revenue": 111.5, "rank": 3},
+      {"industry": "Professional and Business Services", "revenue": 77.3, "rank": 10},
+      {"industry": "Real Estate, Rental and Leasing", "revenue": 73.7, "rank": 12},
+      {"industry": "Education and Healthcare", "revenue": 65.2, "rank": 8},
+      {"industry": "Finance and Insurance", "revenue": 61.9, "rank": 6},
+      {"industry": "Wholesale Trade", "revenue": 41.7, "rank": 9},
+      {"industry": "Retail Trade", "revenue": 38.8, "rank": 7},
+      {"industry": "Construction", "revenue": 25.2, "rank": 7},
+      {"industry": "Entertainment", "revenue": 24.8, "rank": 8},
+      {"industry": "Transportation", "revenue": 23.1, "rank": 8}
+    ],
+    "additional_info": "The northwestern region of Ohio depends on its many auto parts and auto assembly plants, and the industry is only expected to grow stronger—automotive jobs are forecasted to grow 19% by 2028. Manufacturing grew 12% from 2012 to 2014, contributing $99.8 billion to Ohio's gross state product in 2014. Food production also is key to Ohio's economy, accounting for 14% of the state's jobs and contributing $105 billion to its total economic output in 2010.",
+    "topCompanies": [
+      {"company":  "Kroger", "Employees":  465000},
+      {"company":  "Exel Inc", "Employees":  200000},
+      {"company":  "Weston", "Employees":  140800}
+    ]
+  },
+  {
+      "state": "Oklahoma",
+      "industries": [
+        {"industry": "Mining, quarrying, and oil and gas extraction", "revenue": 29.3, "rank": 2},
+        {"industry": "Real Estate, Rental and Leasing", "revenue": 18.9, "rank": 33},
+        {"industry": "Manufacturing", "revenue": 18.5, "rank": 34},
+        {"industry": "Professional and Business Services", "revenue": 16.9, "rank": 32},
+        {"industry": "Education and Healthcare", "revenue": 15.4, "rank": 29},
+        {"industry": "Transportation", "revenue": 13.3, "rank": 16},
+        {"industry": "Retail Trade", "revenue": 11.1, "rank": 31},
+        {"industry": "Wholesale Trade", "revenue": 11, "rank": 30},
+        {"industry": "Finance and Insurance", "revenue": 7.6, "rank": 36},
+        {"industry": "Construction", "revenue": 7.3, "rank": 32}
+      ],
+      "additional_info": "Tulsa may no longer be considered the oil capital of the world, but the mining industry is still the top industry in the state despite shrinking in recent years. The economy still depends on the oil and gas industry, which has just strengthened after a drop in global gas prices in 2016. The median household income in Oklahoma is well below the national average, at $49,176.",
+      "topCompanies": [
+        {"company":  "Hobby Lobby", "Employees":  43000},
+        {"company":  "Imperial", "Employees":  33000},
+        {"company":  "Kappa Kappa Psi", "Employees":  30000}
+      ]
+    },
+    {
+      "state": "Oregon",
+      "industries": [
+        {"industry": "Real Estate, Rental and Leasing", "revenue": 38.8, "rank": 22},
+        {"industry": "Manufacturing", "revenue": 34.1, "rank": 24},
+        {"industry": "Professional and Business Services", "revenue": 28.6, "rank": 24},
+        {"industry": "Education and Healthcare", "revenue": 22.7, "rank": 24},
+        {"industry": "Wholesale Trade", "revenue": 12.7, "rank": 27},
+        {"industry": "Retail Trade", "revenue": 12, "rank": 29},
+        {"industry": "Finance and Insurance", "revenue": 11.1, "rank": 31},
+        {"industry": "Construction", "revenue": 10.9, "rank": 26},
+        {"industry": "Entertainment", "revenue": 10.6, "rank": 26},
+        {"industry": "Information", "revenue": 8.8, "rank": 23}
+      ],
+      "additional_info": "In the past 30 years, Oregon has transitioned from a resource-based economy to a mixed manufacturing and marketing economy with an emphasis on technology. In the years before the financial crisis of 2008, Oregon experienced enormous growth in the construction and services industries but is still working to earn back the losses it experienced after that recession. Today, Oregon's top commodities include greenhouses, cattle, hay, milk, grass seed, wheat, and potatoes.",
+      "topCompanies": [
+        {"company":  "Nike", "Employees":  75400},
+        {"company":  "KinderCare Education", "Employees":  36000},
+        {"company":  "Daimler Trucks North America", "Employees":  34015}
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "industries": [
+        {"industry": "Professional and Business Services", "revenue": 101.8, "rank": 8},
+        {"industry": "Education and Healthcare", "revenue": 95.7, "rank": 5},
+        {"industry": "Real Estate, Rental and Leasing", "revenue": 95.4, "rank": 7},
+        {"industry": "Manufacturing", "revenue": 91.5, "rank": 8},
+        {"industry": "Finance and Insurance", "revenue": 52.7, "rank": 8},
+        {"industry": "Information", "revenue": 48.5, "rank": 5},
+        {"industry": "Wholesale Trade", "revenue": 44.7, "rank": 8},
+        {"industry": "Retail Trade", "revenue": 37.1, "rank": 8},
+        {"industry": "Construction", "revenue": 33.3, "rank": 5},
+        {"industry": "Transportation", "revenue": 29.1, "rank": 6}
+      ],
+      "additional_info": "Known for its coal and steel outputs, Pennsylvania remains one of the nation's most important industrial centers for coal, steel, and railroads. However, the state is also known as the snack food capital of the world; its sales of snacks and food total more than $5.1 billion each year. Pennsylvania is also the largest producer of canned fruit in the country, as well as vegetable specialty products, chocolate, potato chips, and pretzels.",
+      "topCompanies": [
+        {"company":  "Securitas AB", "Employees":  335945},
+        {"company":  "Aramark", "Employees":  215000},
+        {"company":  "Comcast", "Employees":  190000}
+      ]
+    },
+    {
+      "state": "Rhode Island",
+      "industries": [
+        {"industry": "Real Estate, Rental and Leasing", "revenue": 8.7, "rank": 43},
+        {"industry": "Education and Healthcare", "revenue": 8, "rank": 41},
+        {"industry": "Professional and Business Services", "revenue": 7.8, "rank": 42},
+        {"industry": "Finance and Insurance", "revenue": 5.8, "rank": 39},
+        {"industry": "Manufacturing", "revenue": 5.1, "rank": 42},
+        {"industry": "Wholesale Trade", "revenue": 3.6, "rank": 41},
+        {"industry": "Retail Trade", "revenue": 3.3, "rank": 44},
+        {"industry": "Entertainment", "revenue": 3, "rank": 42},
+        {"industry": "Construction", "revenue": 2.4, "rank": 46},
+        {"industry": "Information", "revenue": 1.5, "rank": 41}
+      ],
+      "additional_info": "Because of its small geographical size, Rhode Island doesn't have the same room for farming and manufacturing as other states. Instead, it leads in finance, insurance, and real estate, with Providence serving as the financial hub for all of New England. Most Rhode Island residents can attribute their income to private research facilities, law firms, computer programming companies, and repair shops.",
+      "topCompanies": [
+        {"company":  "CVS Health", "Employees":  203000},
+        {"company":  "Textron", "Employees":  35000},
+        {"company":  "United Natural Foods", "Employees":  19000}
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "industries": [
+        {"industry": "Manufacturing", "revenue": 38.4, "rank": 21},
+        {"industry": "Real Estate, Rental and Leasing", "revenue": 29.2, "rank": 25},
+        {"industry": "Professional and Business Services", "revenue": 25.6, "rank": 25},
+        {"industry": "Education and Healthcare", "revenue": 17.1, "rank": 28},
+        {"industry": "Retail Trade", "revenue": 15.4, "rank": 24},
+        {"industry": "Wholesale Trade", "revenue": 13.4, "rank": 25},
+        {"industry": "Construction", "revenue": 12, "rank": 23},
+        {"industry": "Entertainment", "revenue": 11.2, "rank": 24},
+        {"industry": "Finance and Insurance", "revenue": 11, "rank": 32},
+        {"industry": "Information", "revenue": 6.6, "rank": 25}
+      ],
+      "additional_info": "Tourism in South Carolina is booming, with visitors from across the country traveling miles to visit Charleston, Hilton Head, and Myrtle Beach, all considered some of the nation's best beach towns. Following tourism and manufacturing, other prominent industries in the Palmetto State include government and Professional and Business Services. The state is home to the headquarters of Michelin North America, ScanSource, and Denny's.",
+      "topCompanies": [
+        {"company":  "ZF Group", "Employees":  147797},
+        {"company":  "Michelin", "Employees":  127000},
+        {"company":  "Schaeffler", "Employees":  92478}
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "industries": [
+        {"industry": "Finance and Insurance", "revenue": 8.1, "rank": 35},
+        {"industry": "Education and Healthcare", "revenue": 5.4, "rank": 45},
+        {"industry": "Manufacturing", "revenue": 5.1, "rank": 41},
+        {"industry": "Real Estate, Rental and Leasing", "revenue": 4.8, "rank": 48},
+        {"industry": "Wholesale Trade", "revenue": 3.7, "rank": 40},
+        {"industry": "Agriculture", "revenue": 3.6, "rank": 15},
+        {"industry": "Retail Trade", "revenue": 3.5, "rank": 43},
+        {"industry": "Professional and Business Services", "revenue": 3.1, "rank": 49},
+        {"industry": "Construction", "revenue": 2, "rank": 48},
+        {"industry": "Entertainment", "revenue": 2, "rank": 47}
+      ],
+      "additional_info": "Agriculture is one of the most important industries in South Dakota, and the state ranks among the top 10 in the country for the production of hay, sunflowers, rye, honey, soybeans, corn, wheat, and cattle. South Dakota is arguably most famous for being the home of the iconic American landmark, Mount Rushmore, and tourism is another important part of the economy, contributing about $2 billion annually. But it's the service sector, which includes retail, trade, and manufacturing jobs, that employs the most people in the state.",
+      "topCompanies": [
+        {"company":  "Sanford Health", "Employees":  47001},
+        {"company":  "Sanford-Good Samaritan Community Health", "Employees":  27000},
+        {"company":  "Avera Health", "Employees":  15000}
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "industries": [
+        {"industry": "Manufacturing", "revenue": 55, "rank": 14},
+        {"industry": "Professional and Business Services", "revenue": 41.4, "rank": 19},
+        {"industry": "Education and Healthcare", "revenue": 40.3, "rank": 13},
+        {"industry": "Real Estate, Rental and Leasing", "revenue": 40.1, "rank": 19},
+        {"industry": "Wholesale Trade", "revenue": 24.9, "rank": 15},
+        {"industry": "Retail Trade", "revenue": 24.3, "rank": 15},
+        {"industry": "Finance and Insurance", "revenue": 21.5, "rank": 24},
+        {"industry": "Entertainment", "revenue": 20.7, "rank": 13},
+        {"industry": "Transportation", "revenue": 16.6, "rank": 10},
+        {"industry": "Construction", "revenue": 14, "rank": 20}
+      ],
+      "additional_info": "While agriculture once dominated Tennessee's economy, the state recently has seen major expansions in the mining, construction, manufacturing, and logging industries. Tourism is another strong part of the state's economy, with people flocking to the Great Smoky Mountains National Park and cities like Nashville and Memphis. Tennessee headquarters several Fortune 500 companies, including FedEx and HCA Holdings.",
+      "topCompanies": [
+        {"company":  "FedEx", "Employees":  850001},
+        {"company":  "HCA Healthcare", "Employees":  235000},
+        {"company":  "Access Control Systems", "Employees":  210345}
+      ]
+    },
+    {
+      "state": "Texas",
+      "industries": [
+        {"industry": "Manufacturing", "revenue": 237.7, "rank": 2},
+        {"industry": "Professional and Business Services", "revenue": 212.4, "rank": 3},
+        {"industry": "Real Estate, Rental and Leasing", "revenue": 175.3, "rank": 3},
+        {"industry": "Mining, quarrying, and oil and gas extraction", "revenue": 161.7, "rank": 1},
+        {"industry": "Wholesale Trade", "revenue": 138, "rank": 2},
+        {"industry": "Education and Healthcare", "revenue": 123, "rank": 3},
+        {"industry": "Finance and Insurance", "revenue": 102.7, "rank": 3},
+        {"industry": "Retail Trade", "revenue": 99.6, "rank": 2},
+        {"industry": "Construction", "revenue": 92.8, "rank": 2},
+        {"industry": "Transportation", "revenue": 66.3, "rank": 2}
+      ],
+      "additional_info": "If Texas was a country, it would have the 10th-largest economy in the world based on GDP and would be ahead of Australia, Mexico, Spain, and Russia. As the top exporter in the United States, the Lone Star State in 2018 exported $315.9 billion in goods exports to the world. This economy is even further boosted by 48 Fortune 500 companies headquartered across Texas, including ExxonMobil, AT&T, Sysco, and American Airlines.",
+      "topCompanies": [
+        {"company":  "ISS A/S", "Employees":  439264},
+        {"company":  "Pizza Hut", "Employees":  350000},
+        {"company":  "Schlumberger", "Employees":  86000}
+      ]
+    },
+    {
+        "state": "Utah",
+        "industries": [
+          {"industry": "Real Estate, Rental and Leasing", "revenue": 24.4, "rank": 28},
+          {"industry": "Professional and Business Services", "revenue": 19.9, "rank": 28},
+          {"industry": "Manufacturing", "revenue": 19.6, "rank": 31},
+          {"industry": "Finance and Insurance", "revenue": 15.5, "rank": 26},
+          {"industry": "Education and Healthcare", "revenue": 13.1, "rank": 32},
+          {"industry": "Retail Trade", "revenue": 12.2, "rank": 28},
+          {"industry": "Construction", "revenue": 11, "rank": 25},
+          {"industry": "Wholesale Trade", "revenue": 9.1, "rank": 33},
+          {"industry": "Information", "revenue": 8.5, "rank": 24},
+          {"industry": "Transportation", "revenue": 6.6, "rank": 31}
+        ],
+        "additional_info": "Goldman Sachs has named Utah the 'Wall Street of the West,' and the largest job increases in the state in the coming years are projected to be in Professional and Business Services, health care, and construction. Utah is also completing several significant construction projects that are expected to bring in even more revenue, such as the redevelopment of the Salt Lake City International Airport and an Amazon fulfillment center. People from all over also come to Utah for its ski resorts, and the state welcomed a record number of skiers in the 2018-2019 season, up 12% to 5,125,441 skier visits.",
+        "topCompanies": [
+          {"company":  "Teleperformance USA", "Employees":  300000},
+          {"company":  "Super Value Inc", "Employees":  121000},
+          {"company":  "Intermountain Healthcare", "Employees":  59000}
+        ]
+      },
+      {
+        "state": "Vermont",
+        "industries": [
+          {"industry": "Real Estate, Rental and Leasing", "revenue": 4.7, "rank": 49},
+          {"industry": "Education and Healthcare", "revenue": 4.6, "rank": 47},
+          {"industry": "Professional and Business Services", "revenue": 3.4, "rank": 46},
+          {"industry": "Manufacturing", "revenue": 3.1, "rank": 47},
+          {"industry": "Retail Trade", "revenue": 2.5, "rank": 48},
+          {"industry": "Entertainment", "revenue": 2.2, "rank": 45},
+          {"industry": "Finance and Insurance", "revenue": 1.8, "rank": 48},
+          {"industry": "Wholesale Trade", "revenue": 1.7, "rank": 48},
+          {"industry": "Construction", "revenue": 1.1, "rank": 50},
+          {"industry": "Information", "revenue": 0.9, "rank": 49}
+        ],
+        "additional_info": "Vermont is the #1 maple syrup producer in the country and produces cheese, hay, apples, and sweet corn. The services sector is also important to the state's economy, led by community, business, and personal services.",
+        "topCompanies": [
+          {"company":  "Bay", "Employees":  30000},
+          {"company":  "The University of Vermont Health Network", "Employees":  7500},
+          {"company":  "Brattleboro Retreat", "Employees":  7500}
+        ]
+      },
+      {
+        "state": "Virginia",
+        "industries": [
+          {"industry": "Professional and Business Services", "revenue": 103, "rank": 6},
+          {"industry": "Real Estate, Rental and Leasing", "revenue": 75.1, "rank": 10},
+          {"industry": "Manufacturing", "revenue": 45.3, "rank": 19},
+          {"industry": "Education and Healthcare", "revenue": 39.4, "rank": 15},
+          {"industry": "Finance and Insurance", "revenue": 27.7, "rank": 14},
+          {"industry": "Retail Trade", "revenue": 26.6, "rank": 13},
+          {"industry": "Wholesale Trade", "revenue": 22.6, "rank": 16},
+          {"industry": "Construction", "revenue": 21.3, "rank": 13},
+          {"industry": "Entertainment", "revenue": 18, "rank": 17},
+          {"industry": "Information", "revenue": 17.2, "rank": 15}
+        ],
+        "additional_info": "Virginia's economy is as diversified as its landscape, with shipbuilding dominating the coastline, federal workers populating the northern region of the state, technology companies in the suburban Washington corridor, and wineries and apple farms in the countryside. The state's unemployment rate is well below the national average and led by a civilian workforce of 4.3 million. The vineyard and winemaking industry has blossomed in recent years and is only expected to grow in the next decade.",
+        "topCompanies": [
+          {"company":  "Dollar Tree", "Employees":  193100},
+          {"company":  "Hilton", "Employees":  173000},
+          {"company":  "Airbus", "Employees":  131349}
+        ]
+      },
+      {
+        "state": "Washington",
+        "industries": [
+          {"industry": "Real Estate, Rental and Leasing", "revenue": 77.6, "rank": 9},
+          {"industry": "Information", "revenue": 71.6, "rank": 3},
+          {"industry": "Manufacturing", "revenue": 64.6, "rank": 10},
+          {"industry": "Professional and Business Services", "revenue": 59.7, "rank": 14},
+          {"industry": "Retail Trade", "revenue": 47.2, "rank": 5},
+          {"industry": "Education and Healthcare", "revenue": 38.9, "rank": 16},
+          {"industry": "Wholesale Trade", "revenue": 28.4, "rank": 12},
+          {"industry": "Construction", "revenue": 24.2, "rank": 9},
+          {"industry": "Finance and Insurance", "revenue": 21.9, "rank": 23},
+          {"industry": "Entertainment", "revenue": 21.3, "rank": 11}
+        ],
+        "additional_info": "Washington was the country's top state for business in 2017, with the state's economy growing 3.7% the year before. The state is ripe for innovation and houses the nation's largest concentration of STEM (science, technology, engineering, math) workers and trails only California in the number of patents filed each year. Additionally, Washington has no corporate or state income tax, which helps attract a wide variety of businesses.",
+        "topCompanies": [
+          {"company":  "Amazon", "Employees":  1608000},
+          {"company":  "Starbucks", "Employees":  349000},
+          {"company":  "Deloitte Digital", "Employees":  345374}
+        ]
+      },
+      {
+        "state": "West Virginia",
+        "industries": [
+          {"industry": "Education and Healthcare", "revenue": 8.6, "rank": 39},
+          {"industry": "Manufacturing", "revenue": 8.1, "rank": 38},
+          {"industry": "Mining, quarrying, and oil and gas extraction", "revenue": 7.9, "rank": 10},
+          {"industry": "Real Estate, Rental and Leasing", "revenue": 7.7, "rank": 44},
+          {"industry": "Professional and Business Services", "revenue": 6.4, "rank": 44},
+          {"industry": "Retail Trade", "revenue": 5.1, "rank": 42},
+          {"industry": "Construction", "revenue": 4.5, "rank": 37},
+          {"industry": "Wholesale Trade", "revenue": 3.5, "rank": 43},
+          {"industry": "Entertainment", "revenue": 2.9, "rank": 43},
+          {"industry": "Finance and Insurance", "revenue": 2.7, "rank": 45}
+        ],
+        "additional_info": "West Virginia's economy has historically so depended on mining and coal prices that low energy prices in recent years have financially hurt the state. Still, West Virginia produces most coal used in other states. The state has looked to other industries for economic growth, and in 2017, mining and logging jobs increased by 5%, accompanied by growth in the construction industry, as well.",
+        "topCompanies": [
+          {"company":  "West Virginia University", "Employees":  7500},
+          {"company":  "American Public Education", "Employees":  5800},
+          {"company":  "Huntington Alloys Corporation", "Employees":  4999}
+        ]
+      },
+      {
+        "state": "Wisconsin",
+        "industries": [
+          {"industry": "Manufacturing", "revenue": 63.1, "rank": 12},
+          {"industry": "Real Estate, Rental and Leasing", "revenue": 39.3, "rank": 21},
+          {"industry": "Education and Healthcare", "revenue": 33.4, "rank": 20},
+          {"industry": "Professional and Business Services", "revenue": 33.2, "rank": 22},
+          {"industry": "Finance and Insurance", "revenue": 26.1, "rank": 16},
+          {"industry": "Wholesale Trade", "revenue": 20.6, "rank": 18},
+          {"industry": "Retail Trade", "revenue": 18.7, "rank": 21},
+          {"industry": "Construction", "revenue": 13.9, "rank": 21},
+          {"industry": "Information", "revenue": 11.6, "rank": 22},
+          {"industry": "Entertainment", "revenue": 10.7, "rank": 25}
+        ],
+        "additional_info": "For the past century, manufacturing has dominated Wisconsin's economy. The state is the #1 paper producer in the U.S., employing over 31,000 people and producing 5.3 million tons of paper and 1.1 million tons of paperboard every year. Dairy is also an important component of the Midwestern state's economy, and it ranks first in cheese-making as well as in the production of cranberries, green beans, and corn.",
+        "topCompanies": [
+          {"company":  "Aptiv", "Employees":  180000},
+          {"company":  "Kohl's", "Employees":  110000},
+          {"company":  "Johnson Controls", "Employees":  97000}
+        ]
+      },
+      {
+        "state": "Wyoming",
+        "industries": [
+          {"industry": "Mining, quarrying, and oil and gas extraction", "revenue": 7.5, "rank": 11},
+          {"industry": "Real Estate, Rental and Leasing", "revenue": 4.3, "rank": 50},
+          {"industry": "Transportation", "revenue": 3.4, "rank": 39},
+          {"industry": "Manufacturing", "revenue": 2.3, "rank": 48},
+          {"industry": "Retail Trade", "revenue": 2.1, "rank": 50},
+          {"industry": "Construction", "revenue": 2.1, "rank": 47},
+          {"industry": "Professional and Business Services", "revenue": 2, "rank": 50},
+          {"industry": "Education and Healthcare", "revenue": 1.9, "rank": 50},
+          {"industry": "Entertainment", "revenue": 1.7, "rank": 49},
+          {"industry": "Wholesale Trade", "revenue": 1.5, "rank": 49}
+        ],
+        "additional_info": "As the smallest state in the country in terms of population, Wyoming relies heavily on mining for its economy as well as for tourism: Its seven national parks draw 7 million people each year. The state is home to Yellowstone National Park, where visitors will find the largest hot spring in the United States and the famous geyser, Old Faithful.",
+        "topCompanies": [
+          {"company":  "Specsavers", "Employees":  32501},
+          {"company":  "University of Wyoming", "Employees":  4323},
+          {"company":  "Powell Valley Care Ctr", "Employees":  3734}
+        ]
+      }
+]
+
+

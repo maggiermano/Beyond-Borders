@@ -1,0 +1,2335 @@
+[
+  {
+    "Alabama": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Alabama/mapAlabama.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Alabama/flagAlabama.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Alabama/stateAlabama.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Alabama/signAlabama.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Alabama/cityAlabama.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Alabama/natureAlabama.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Alabama",
+        "Nickname": "Yellowhammer State",
+        "Population": 5074296,
+        "CapitalCity": "Montgomery",
+        "KnownFor": "Alabama is known for peanuts, cotton and agriculture industry, southern hospitality, the beautiful gulf coast beaches, its role in the Civil Rights Movement, and college football, especially the intra-state rivalry between University of Alabama and Auburn University.",
+        "TouristAttractions": "U.S. Space & Rocket Center, Birmingham Zoo and Huntsville Botanical Garden",
+        "AbortionPolicy": "banned",
+        "Climate": "warm",
+        "AverageTemperature": 17.1,
+        "Politics": "red",
+        "AverageHousingPrices": 284900,
+        "AverageIncome": 50637,
+        "MaximumStateIncomeTax": 4,
+        "CostOfLivingIndex": 88.8,
+        "TopPerformingIndustries": "Manufacturing and Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Alaska": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Alaska/mapAlaska.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Alaska/flagAlaska.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Alaska/stateAlaska.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Alaska/signAlaska.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Alaska/cityAlaska.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Alaska/natureAlaska.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Alaska",
+        "Nickname": "The Last Frontier",
+        "Population": 733583,
+        "CapitalCity": "Juneau",
+        "KnownFor": "Alaska is known for glaciers, national parks, the vast wilderness, Northern lights, midnight sun, fishing industry, oil industry, and cruises.",
+        "TouristAttractions": "Fairbanks, Glacier Bay National Park and Preserve and Ketchikan",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": -3,
+        "Politics": "red",
+        "AverageHousingPrices": 379600,
+        "AverageIncome": 68919,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 124.4,
+        "TopPerformingIndustries": "Mining, quarrying, and oil and gas extraction as well as Transportation",
+        "MinimumWage": 10.85
+      }
+    },
+
+    "Arizona": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Arizona/mapArizona.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Arizona/flagArizona.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Arizona/stateArizona.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Arizona/signArizona.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Arizona/cityArizona.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Arizona/natureArizona.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Arizona",
+        "Nickname": "The Grand Canyon State",
+        "Population": 7359197,
+        "CapitalCity": "Phoenix",
+        "KnownFor": "Arizona is known for the hot and dry desert climate, the Grand Canyon, the red rocks of Sedona, the Hoover Dam, the Saguaro cactus, and the Native American culture.",
+        "TouristAttractions": "Grand Canyon National Park, Canyon de Chelly National Monument and Monument Valley",
+        "AbortionPolicy": "restricted",
+        "Climate": "warm",
+        "AverageTemperature": 15.7,
+        "Politics": "red",
+        "AverageHousingPrices": 436100,
+        "AverageIncome": 56667,
+        "MaximumStateIncomeTax": 2.50,
+        "CostOfLivingIndex": 107.2,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 13.85
+      }
+    },
+
+    "Arkansas": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Arkansas/mapArkansas.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Arkansas/flagArkansas.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Arkansas/stateArkansas.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Arkansas/signArkansas.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Arkansas/cityArkansas.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Arkansas/natureArkansas.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Arkansas",
+        "Nickname": "The Natural State",
+        "Population": 3045637,
+        "CapitalCity": "Little Rock",
+        "KnownFor": "Arkansas is known for its lakes, rivers, and hot springs, extreme weather and frequent storms, rice and poultry production, its rich folk music tradition, and the only active diamond mine in the United States.",
+        "TouristAttractions": "Crystal Bridges Museum of American Art, Hot Springs National Park and Magic Springs and Crystal Falls Water and Theme Park",
+        "AbortionPolicy": "banned",
+        "Climate": "warm",
+        "AverageTemperature": 15.8,
+        "Politics": "red",
+        "AverageHousingPrices": 258100,
+        "AverageIncome": 51787,
+        "MaximumStateIncomeTax": 4.70,
+        "CostOfLivingIndex": 90.3,
+        "TopPerformingIndustries": "Manufacturing as well as Professional and Business Services",
+        "MinimumWage": 11
+      }
+    },
+
+    "California": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/California/mapCalifornia.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/California/flagCalifornia.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/California/stateCalifornia.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/California/signCalifornia.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/California/cityCalifornia.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/California/natureCalifornia.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "California",
+        "Nickname": "Golden State",
+        "Population": 39029342,
+        "CapitalCity": "Sacramento",
+        "KnownFor": "California is known for Hollywood, Silicon Valley, Disneyland, dry weather, surfing, less-than-ideal public transportation, the wine country region and bad traffic",
+        "TouristAttractions": "Yosemite National Park, San Francisco and the Golden Gate Bridge and Disneyland",
+        "AbortionPolicy": "legal",
+        "Climate": "warm",
+        "AverageTemperature": 15.2,
+        "Politics": "blue",
+        "AverageHousingPrices": 785900,
+        "AverageIncome": 77339,
+        "MaximumStateIncomeTax": 12.30,
+        "CostOfLivingIndex": 134.5,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 15.5
+      }
+    },
+
+    "Colorado": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Colorado/mapColorado.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Colorado/flagColorado.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Colorado/stateColorado.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Colorado/signColorado.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Colorado/cityColorado.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Colorado/natureColorado.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Colorado",
+        "Nickname": "Centennial State",
+        "Population": 5839926,
+        "CapitalCity": "Denver",
+        "KnownFor": "Colorado is known for its high altitude, winter skiing, wildlife, mining industry, hot springs and spa towns and the majestic landscape of mountains, forests, and canyons",
+        "TouristAttractions": "Rocky Mountain National Park, Denver and Telluride",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 7.3,
+        "Politics": "blue",
+        "AverageHousingPrices": 580900,
+        "AverageIncome": 74167,
+        "MaximumStateIncomeTax": 4.40,
+        "CostOfLivingIndex": 105.5,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 13.65
+      }
+    },
+
+    "Connecticut": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Connecticut/mapConnecticut.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Connecticut/flagConnecticut.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Connecticut/stateConnecticut.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Connecticut/signConnecticut.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Connecticut/cityConnecticut.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Connecticut/natureConnecticut.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Connecticut",
+        "Nickname": "Constitution State",
+        "Population": 3626205,
+        "CapitalCity": "Hartford",
+        "KnownFor": "Connecticut is known for its beautiful fall foliage, its cultural heritage, its manufacturing industry, Yale University, and being the home of ESPN, the famous American cable sports channel.",
+        "TouristAttractions": "Mystic Seaport Museum, Olde Mistick Village and The Mark Twain House",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 9.4,
+        "Politics": "blue",
+        "AverageHousingPrices": 393700,
+        "AverageIncome": 84972,
+        "MaximumStateIncomeTax": 6.99,
+        "CostOfLivingIndex": 113.1,
+        "TopPerformingIndustries": "Real Estate as well as Finance and Insurance",
+        "MinimumWage": 15
+      }
+    },
+
+    "Delaware": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Delaware/mapDelaware.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Delaware/flagDelaware.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Delaware/stateDelaware.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Delaware/signDelaware.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Delaware/cityDelaware.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Delaware/natureDelaware.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Delaware",
+        "Nickname": "The First State",
+        "Population": 1018396,
+        "CapitalCity": "Dover",
+        "KnownFor": "Delaware is known for historical landmarks, chemical manufacturing, being a tax-free state, the first state to ratify the Constitution, large number of companies incorporated in the state, agricultural industry and its financial industry, including the presence of many major credit card companies",
+        "TouristAttractions": "Rehoboth Beach, Delaware Seashore State Park and Dover",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 12.9,
+        "Politics": "blue",
+        "AverageHousingPrices": 327300,
+        "AverageIncome": 61387,
+        "MaximumStateIncomeTax": 7.85,
+        "CostOfLivingIndex": 102.6,
+        "TopPerformingIndustries": "Finance and Insurance as well as Real Estate",
+        "MinimumWage": 11.75
+      }
+    },
+
+    "Florida": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Florida/mapFlorida.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Florida/flagFlorida.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Florida/stateFlorida.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Florida/signFlorida.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Florida/cityFlorida.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Florida/natureFlorida.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Florida",
+        "Nickname": "Sunshine State",
+        "Population": 22244823,
+        "CapitalCity": "Tallahassee",
+        "KnownFor": "Florida is known for theme parks, beaches, hurricanes, warm and humid weather, oranges and grapefruits, retiree communities and tourism",
+        "TouristAttractions": "Walt Disney World, Kennedy Space Center, Universal Studios, Miami Beach and the Art Deco Historic District",
+        "AbortionPolicy": "restricted",
+        "Climate": "warm",
+        "AverageTemperature": 21.5,
+        "Politics": "red",
+        "AverageHousingPrices": 407200,
+        "AverageIncome": 63597,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 102.3,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 13.65
+      }
+    },
+
+    "Georgia": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Georgia/mapGeorgia.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Georgia/flagGeorgia.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Georgia/stateGeorgia.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Georgia/signGeorgia.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Georgia/cityGeorgia.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Georgia/natureGeorgia.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Georgia",
+        "Nickname": "Peach State",
+        "Population": 10912876,
+        "CapitalCity": "Atlanta",
+        "KnownFor": "Georgia is known for warm, temperate climate, the 3 P's - Peaches, Peanuts, and Pecans, its lumber, resins, and turpentine, cotton, quail hunting and Coca-Cola",
+        "TouristAttractions": "Savannah, Tallulah Gorge State Park and Jekyll Island",
+        "AbortionPolicy": "restricted",
+        "Climate": "warm",
+        "AverageTemperature": 17.5,
+        "Politics": "red",
+        "AverageHousingPrices": 375300,
+        "AverageIncome": 57129,
+        "MaximumStateIncomeTax": 5.75,
+        "CostOfLivingIndex": 91,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Hawaii": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Hawaii/mapHawaii.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Hawaii/flagHawaii.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Hawaii/stateHawaii.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Hawaii/signHawaii.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Hawaii/cityHawaii.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Hawaii/natureHawaii.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Hawaii",
+        "Nickname": "Aloha State",
+        "Population": 1440196,
+        "CapitalCity": "Honolulu",
+        "KnownFor": "Hawaii is known for aloha shirts, luaus, the Hula dance, Lei, stunning beaches, volcanic activity, water sports, high cost of living, coffee, surfing and pineapple",
+        "TouristAttractions": "Pearl Harbor and USS Arizona Memorial, Na Pali Coast State Wilderness Park and Volcanoes National Park",
+        "AbortionPolicy": "legal",
+        "Climate": "warm",
+        "AverageTemperature": 21.1,
+        "Politics": "blue",
+        "AverageHousingPrices": 720200,
+        "AverageIncome": 61175,
+        "MaximumStateIncomeTax": 11,
+        "CostOfLivingIndex": 179,
+        "TopPerformingIndustries": "Real Estate and Entertainment",
+        "MinimumWage": 10.1
+      }
+    },
+
+    "Idaho": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Idaho/mapIdaho.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Idaho/flagIdaho.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Idaho/stateIdaho.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Idaho/signIdaho.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Idaho/cityIdaho.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Idaho/natureIdaho.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Idaho",
+        "Nickname": "Gem State",
+        "Population": 1939033,
+        "CapitalCity": "Boise",
+        "KnownFor": "Idaho is known for potatoes, gems, scenic mountain landscapes, miles of protected wilderness, outdoor recreation areas, huckleberries, mining and hot springs",
+        "TouristAttractions": "Yellowstone National Park, Craters of the Moon and Shoshone Falls",
+        "AbortionPolicy": "banned",
+        "Climate": "cool",
+        "AverageTemperature": 6.9,
+        "Politics": "red",
+        "AverageHousingPrices": 460900,
+        "AverageIncome": 54537,
+        "MaximumStateIncomeTax": 5.80,
+        "CostOfLivingIndex": 106.1,
+        "TopPerformingIndustries": "Real Estate as well as Manufacturing",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Illinois": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Illinois/mapIllinois.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Illinois/flagIllinois.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Illinois/stateIllinois.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Illinois/signIllinois.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Illinois/cityIllinois.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Illinois/natureIllinois.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Illinois",
+        "Nickname": "Prairie State",
+        "Population": 12582032,
+        "CapitalCity": "Springfield",
+        "KnownFor": "Illinois is known for farmlands, corn, land of Trains, nuclear power plants, architecture and the first McDonald's",
+        "TouristAttractions": "Millennium Park & Cloud Gate, Navy Pier and Lincoln Park",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 11,
+        "Politics": "blue",
+        "AverageHousingPrices": 280900,
+        "AverageIncome": 68822,
+        "MaximumStateIncomeTax": 4.95,
+        "CostOfLivingIndex": 90.8,
+        "TopPerformingIndustries": "Professional and Business Services as well as Real Estate",
+        "MinimumWage": 13
+      }
+    },
+
+    "Indiana": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Indiana/mapIndiana.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Indiana/flagIndiana.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Indiana/stateIndiana.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Indiana/signIndiana.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Indiana/cityIndiana.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Indiana/natureIndiana.jpg"
+        }
+      ],
+
+      "facts": {
+        "Name": "Indiana",
+        "Nickname": "Hoosier State",
+        "Population": 6833037,
+        "CapitalCity": "Indianapolis",
+        "KnownFor": "Indiana is known for vast farmlands, agricultural production, especially corns and soybeans, the Indy 500, steel mills, limestone industry, university of Notre Dame and high school basketball",
+        "TouristAttractions": "The Children's Museum of Indianapolis, Indianapolis Motor Speedway Museum and Turkey Run State Park",
+        "AbortionPolicy": "pending legality",
+        "Climate": "cool",
+        "AverageTemperature": 10.9,
+        "Politics": "red",
+        "AverageHousingPrices": 250000,
+        "AverageIncome": 57930,
+        "MaximumStateIncomeTax": 5.17,
+        "CostOfLivingIndex": 91.5,
+        "TopPerformingIndustries": "Manufacturing as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Iowa": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Iowa/mapIowa.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Iowa/flagIowa.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Iowa/stateIowa.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Iowa/signIowa.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Iowa/cityIowa.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Iowa/natureIowa.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Iowa",
+        "Nickname": "Hawkeye State",
+        "Population": 3200517,
+        "CapitalCity": "Des Moines",
+        "KnownFor": "Iowa is known for corn, pork Production, beautiful countryside and parks, unpredictable Weather and political Caucuses, as it holds the first caucus in every presidential primary election",
+        "TouristAttractions": "National Mississippi River Museum and Aquarium, State Capitol and Iowa State Fair",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 8.8,
+        "Politics": "red",
+        "AverageHousingPrices": 230600,
+        "AverageIncome": 58905,
+        "MaximumStateIncomeTax": 6.00,
+        "CostOfLivingIndex": 89.7,
+        "TopPerformingIndustries": "Manufacturing as well as Finance and Insurance",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Kansas": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Kansas/mapKansas.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Kansas/flagKansas.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Kansas/stateKansas.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Kansas/signKansas.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Kansas/cityKansas.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Kansas/natureKansas.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Kansas",
+        "Nickname": "Sunflower State",
+        "Population": 2937150,
+        "CapitalCity": "Topeka",
+        "KnownFor": "Kansas is known for oil wells, The Wizard of Oz, wheat and cattle production, great plains and scorching summers and freezing winters",
+        "TouristAttractions": "Botanica, The Wichita Gardens,  Kansas State Capitol and Sedgwick County Zoo",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 12.4,
+        "Politics": "red",
+        "AverageHousingPrices": 276300,
+        "AverageIncome": 60152,
+        "MaximumStateIncomeTax": 5.70,
+        "CostOfLivingIndex": 87.7,
+        "TopPerformingIndustries": "Manufacturing as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Kentucky": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Kentucky/mapKentucky.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Kentucky/flagKentucky.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Kentucky/stateKentucky.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Kentucky/signKentucky.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Kentucky/cityKentucky.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Kentucky/natureKentucky.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Kentucky",
+        "Nickname": "Bluegrass State",
+        "Population": 4512310,
+        "CapitalCity": "Frankfort",
+        "KnownFor": "Kentucky is known for horse racing, famous bourbon distilleries, coal mining industry, college basketball, Kentucky Fried Chicken and bluegrass",
+        "TouristAttractions": "Kentucky Derby, Louisville Slugger Museum & Factory and Daniel Boone National Forest",
+        "AbortionPolicy": "banned",
+        "Climate": "cool",
+        "AverageTemperature": 13.1,
+        "Politics": "red",
+        "AverageHousingPrices": 251300,
+        "AverageIncome": 52109,
+        "MaximumStateIncomeTax": 6.70,
+        "CostOfLivingIndex": 93.8,
+        "TopPerformingIndustries": "Manufacturing as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Louisiana": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Louisiana/mapLouisiana.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Louisiana/flagLouisiana.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Louisiana/stateLouisiana.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Louisiana/signLouisiana.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Louisiana/cityLouisiana.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Louisiana/natureLouisiana.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Louisiana",
+        "Nickname": "Pelican State",
+        "Population": 4590241,
+        "CapitalCity": "Baton Rouge",
+        "KnownFor": "Louisiana is known for Mardi Gras, jazz music, Creole and Cajun cuisine, salt mines amd the petroleum industry",
+        "TouristAttractions": "New Orleans' French Quarter, National WWII Museum and Mardi Gras",
+        "AbortionPolicy": "banned",
+        "Climate": "warm",
+        "AverageTemperature": 19.1,
+        "Politics": "red",
+        "AverageHousingPrices": 257400,
+        "AverageIncome": 54622,
+        "MaximumStateIncomeTax": 4.25,
+        "CostOfLivingIndex": 92,
+        "TopPerformingIndustries": "Manufacturing as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Maine": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Maine/mapMaine.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Maine/flagMaine.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Maine/stateMaine.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Maine/signMaine.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Maine/cityMaine.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Maine/natureMaine.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Maine",
+        "Nickname": "Pine Tree State",
+        "Population": 1385340,
+        "CapitalCity": "Augusta",
+        "KnownFor": "Maine is known for lobsters, lighthouses, rocky coastlines, moose, blueberries and delicious seafood",
+        "TouristAttractions": "Acadia National Park & Mount Desert Island, The Old Port and Portland Head Lighthouse and Marginal Way and Ogunquit Beaches",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 5,
+        "Politics": "blue",
+        "AverageHousingPrices": 373700,
+        "AverageIncome": 59463,
+        "MaximumStateIncomeTax": 7.15,
+        "CostOfLivingIndex": 111.5,
+        "TopPerformingIndustries": "Real Estate as well as Education and Healthcare",
+        "MinimumWage": 13.8
+      }
+    },
+
+    "Maryland": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Maryland/mapMaryland.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Maryland/flagMaryland.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Maryland/stateMaryland.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Maryland/signMaryland.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Maryland/cityMaryland.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Maryland/natureMaryland.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Maryland",
+        "Nickname": "Old Line State",
+        "Population": 6164660,
+        "CapitalCity": "Annapolis",
+        "KnownFor": "Maryland is known for blue crabs, birthplace of the U.S. National Anthem, the twin spans of the Chesapeake Bay Bridge, fishing, proximity to Washington D.C.",
+        "TouristAttractions": "Fort McHenry National Monument, National Aquarium and The Walters Art Museum",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 12.3,
+        "Politics": "blue",
+        "AverageHousingPrices": 421800,
+        "AverageIncome": 70730,
+        "MaximumStateIncomeTax": 8.95,
+        "CostOfLivingIndex": 119.5,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 13.25
+      }
+    },
+
+    "Massachusetts": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Massachusetts/mapMassachusetts.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Massachusetts/flagMassachusetts.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Massachusetts/stateMassachusetts.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Massachusetts/signMassachusetts.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Massachusetts/cityMassachusetts.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Massachusetts/natureMassachusetts.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Massachusetts",
+        "Nickname": "The Bay State",
+        "Population": 6981974,
+        "CapitalCity": "Boston",
+        "KnownFor": "Massachusetts is known for the landing place of the Mayflower and the Pilgrims, stunning fall foliage, colonial landmarks, top educational institutions: Harvard University and Massachusetts Institute of Technology (MIT) and the nation's first library",
+        "TouristAttractions": "Freedom Trail, Cape Cod Beaches and Boston Common and Public Garden Swan Boats",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 8.8,
+        "Politics": "blue",
+        "AverageHousingPrices": 614700,
+        "AverageIncome": 84945,
+        "MaximumStateIncomeTax": 9,
+        "CostOfLivingIndex": 148.4,
+        "TopPerformingIndustries": "Professional and Business Services as well as Real Estate",
+        "MinimumWage": 15
+      }
+    },
+
+    "Michigan": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Michigan/mapMichigan.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Michigan/flagMichigan.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Michigan/stateMichigan.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Michigan/signMichigan.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Michigan/cityMichigan.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Michigan/natureMichigan.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Michigan",
+        "Nickname": "The Great Lakes State",
+        "Population": 10034113,
+        "CapitalCity": "Lansing",
+        "KnownFor": "Michigan is known for fishing, cold and snowy winter, automobile industry, lakes and the agricultural industry, particularly cherries, apples, and blueberries",
+        "TouristAttractions": "Mackinac Island, Sleeping Bear Dunes National Lakeshore and Lake Michigan and Detroit Institute of Arts",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 6.9,
+        "Politics": "blue",
+        "AverageHousingPrices": 252200,
+        "AverageIncome": 56813,
+        "MaximumStateIncomeTax": 6.65,
+        "CostOfLivingIndex": 92.7,
+        "TopPerformingIndustries": "Manufacturing as well as Professional and Business Services",
+        "MinimumWage": 10.1
+      }
+    },
+
+    "Minnesota": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Minnesota/mapMinnesota.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Minnesota/flagMinnesota.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Minnesota/stateMinnesota.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Minnesota/signMinnesota.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Minnesota/cityMinnesota.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Minnesota/natureMinnesota.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Minnesota",
+        "Nickname": "Land of 10,000 Lakes",
+        "Population": 5717184,
+        "CapitalCity": "St. Paul",
+        "KnownFor": "Minnesota is known for lakes, mining (iron, copper, nickel), largest shopping mall in the U.S. and cold winters",
+        "TouristAttractions": "Superior National Forest & Boundary Waters Canoe Area Wilderness, North Shore Scenic Drive and Paddle Voyageurs National Park",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 5.1,
+        "Politics": "blue",
+        "AverageHousingPrices": 341700,
+        "AverageIncome": 68010,
+        "MaximumStateIncomeTax": 9.85,
+        "CostOfLivingIndex": 94.1,
+        "TopPerformingIndustries": "Manufacturing as well as Professional and Business Services",
+        "MinimumWage": 10.59
+      }
+    },
+
+    "Mississippi": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Mississippi/mapMississippi.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Mississippi/flagMississippi.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Mississippi/stateMississippi.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Mississippi/signMississippi.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Mississippi/cityMississippi.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Mississippi/natureMississippi.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Mississippi",
+        "Nickname": "Magnolia State",
+        "Population": 2940057,
+        "CapitalCity": "Jackson",
+        "KnownFor": "Mississippi is known for catfish, cotton, abundance of wildlife, including turkey, deer, and alligators, bluegrass music and Southern charm",
+        "TouristAttractions": "Gulf Islands National Seashore, Tupelo Automobile Museum and USS Cairo Museum",
+        "AbortionPolicy": "banned",
+        "Climate": "warm",
+        "AverageTemperature": 17.4,
+        "Politics": "red",
+        "AverageHousingPrices": 271200,
+        "AverageIncome": 46248,
+        "MaximumStateIncomeTax": 5,
+        "CostOfLivingIndex": 85.3,
+        "TopPerformingIndustries": "Manufacturing as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Missouri": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Missouri/mapMissouri.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Missouri/flagMissouri.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Missouri/stateMissouri.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Missouri/signMissouri.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Missouri/cityMissouri.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Missouri/natureMissouri.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Missouri",
+        "Nickname": "Show Me State",
+        "Population": 6177957,
+        "CapitalCity": "Jefferson City",
+        "KnownFor": "Missouri is known for Ozark Mountains, prairies, scenic rivers, Italian food and Mark Twain",
+        "TouristAttractions": "St. Louis Gateway Arch, Music in Branson and Nelson-Atkins Museum of Art",
+        "AbortionPolicy": "banned",
+        "Climate": "cool",
+        "AverageTemperature": 12.5,
+        "Politics": "red",
+        "AverageHousingPrices": 255400,
+        "AverageIncome": 56551,
+        "MaximumStateIncomeTax": 5.95,
+        "CostOfLivingIndex": 88.4,
+        "TopPerformingIndustries": "Professional and Business Services as well as Manufacturing",
+        "MinimumWage": 12
+      }
+    },
+
+    "Montana": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Montana/mapMontana.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Montana/flagMontana.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Montana/stateMontana.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Montana/signMontana.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Montana/cityMontana.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Montana/natureMontana.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Montana",
+        "Nickname": "Treasure State",
+        "Population": 1122867,
+        "CapitalCity": "Helena",
+        "KnownFor": "Montana is known for Yellowstone National Park, Bighorn Mountains, wildlife, sapphires, rich deposits of minerals, particularly copper, gold, and silver",
+        "TouristAttractions": "Glacier National Park, Big Sky Resort and Grizzly and Wolf Discovery Center",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 5.9,
+        "Politics": "red",
+        "AverageHousingPrices": 454673,
+        "AverageIncome": 57719,
+        "MaximumStateIncomeTax": 6.75,
+        "CostOfLivingIndex": 103.7,
+        "TopPerformingIndustries": "Real Estate as well as Education and Healthcare",
+        "MinimumWage": 9.95
+      }
+    },
+
+    "Nebraska": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Nebraska/mapNebraska.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Nebraska/flagNebraska.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Nebraska/stateNebraska.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Nebraska/signNebraska.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Nebraska/cityNebraska.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Nebraska/natureNebraska.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Nebraska",
+        "Nickname": "Cornhusker State",
+        "Population": 1967923,
+        "CapitalCity": "Lincoln",
+        "KnownFor": "Nebraska is known for agricultural production, corn, beef production, Warren Buffett and the home of the College Baseball World Series",
+        "TouristAttractions": "Omaha's Henry Doorly Zoo and Aquarium, Old Market in Omaha and Strategic Air Command and Space Museum",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 9.3,
+        "Politics": "red",
+        "AverageHousingPrices": 290500,
+        "AverageIncome": 63321,
+        "MaximumStateIncomeTax": 6.64,
+        "CostOfLivingIndex": 90.1,
+        "TopPerformingIndustries": "Manufacturing as well as Finance and Insurance",
+        "MinimumWage": 10.5
+      }
+    },
+
+    "Nevada": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Nevada/mapNevada.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Nevada/flagNevada.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Nevada/stateNevada.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Nevada/signNevada.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Nevada/cityNevada.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Nevada/natureNevada.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Nevada",
+        "Nickname": "The Silver State",
+        "Population": 3177772,
+        "CapitalCity": "Carson City",
+        "KnownFor": "Nevada is known for gambling, large and extravagent hotels, hot and dry weather, rich silver deposits, Hoover Dam and Area 51",
+        "TouristAttractions": "Las Vegas, Hoover Dam and Lake Tahoe",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 9.9,
+        "Politics": "blue",
+        "AverageHousingPrices": 428100 ,
+        "AverageIncome": 61282,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 101.3,
+        "TopPerformingIndustries": "Entertainment as well as Real Estate",
+        "MinimumWage": 11.25
+      }
+    },
+
+    "New Hampshire": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/NewHampshire/mapNewHampshire.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/NewHampshire/flagNewHampshire.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/NewHampshire/stateNewHampshire.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/NewHampshire/signNewHampshire.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/NewHampshire/cityNewHampshire.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/NewHampshire/natureNewHampshire.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "New Hampshire",
+        "Nickname": "Granite State",
+        "Population": 1395231,
+        "CapitalCity": "Concord",
+        "KnownFor": "New Hampshire is known for small, picturesque towns, abundant wildlife, large stretches of wilderness and popular destinations for skiing and hiking",
+        "TouristAttractions": "Mt. Washington Cog Railway, The Flume Gorge and Franconia Notch and Mt. Washington Auto Road",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 6.6,
+        "Politics": "blue",
+        "AverageHousingPrices": 452700,
+        "AverageIncome": 74663,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 115.1,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "New Jersey": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/NewJersey/mapNewJersey.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/NewJersey/flagNewJersey.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/NewJersey/stateNewJersey.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/NewJersey/signNewJersey.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/NewJersey/cityNewJersey.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/NewJersey/natureNewJersey.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "New Jersey",
+        "Nickname": "Garden State",
+        "Population": 9261699,
+        "CapitalCity": "Trenton",
+        "KnownFor": "New Jersey is known for busy expressway, beautiful beaches, Italian population, pork roll and industrial production, particularly in chemical, pharmaceutical, and food processing industries",
+        "TouristAttractions": "Atlantic City's Boardwalk, Liberty State Park and Island Beach State Park",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 11.5,
+        "Politics": "blue",
+        "AverageHousingPrices": 477600,
+        "AverageIncome": 78700,
+        "MaximumStateIncomeTax": 11.75,
+        "CostOfLivingIndex": 114.1,
+        "TopPerformingIndustries": "Professional and Business Services as well as Real Estate",
+        "MinimumWage": 14
+      }
+    },
+
+    "New Mexico": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/NewMexico/mapNewMexico.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/NewMexico/flagNewMexico.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/NewMexico/stateNewMexico.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/NewMexico/signNewMexico.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/NewMexico/cityNewMexico.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/NewMexico/natureNewMexico.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "New Mexico",
+        "Nickname": "Land of Enchantment",
+        "Population": 2113344,
+        "CapitalCity": "Santa Fe",
+        "KnownFor": "New Mexico is known for diverse landscape, birthplace of the nuclear bomb, Ancient Pueblo People, Los Alamos National Laboratory, The Roswell Incident, white sands, pecans and Chile peppers",
+        "TouristAttractions": "Carlsbad Caverns National Park, White Sands National Monument and Albuquerque International Balloon Fiesta",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 11.9,
+        "Politics": "blue",
+        "AverageHousingPrices": 349200,
+        "AverageIncome": 51500,
+        "MaximumStateIncomeTax": 5.90,
+        "CostOfLivingIndex": 94.2,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 12
+      }
+    },
+
+    "New York": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/NewYork/mapNewYork.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/NewYork/flagNewYork.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/NewYork/stateNewYork.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/NewYork/signNewYork.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/NewYork/cityNewYork.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/NewYork/natureNewYork.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "New York",
+        "Nickname": "Empire State",
+        "Population": 19677151,
+        "CapitalCity": "Albany",
+        "KnownFor": "New York is known for the Statue of Liberty, Wall Street, Time Square, broadway Shows, Central Park, tall Skyscrapers and famous performance venues such as Carnegie Hall and Lincoln Center",
+        "TouristAttractions": "Statue of Liberty and Ellis Island, Niagara Falls, Central Park and Times Square",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 7.4,
+        "Politics": "blue",
+        "AverageHousingPrices": 819900 ,
+        "AverageIncome": 78089,
+        "MaximumStateIncomeTax": 15,
+        "CostOfLivingIndex": 125.1,
+        "TopPerformingIndustries": "Finance and Insurance as well as Real Estate",
+        "MinimumWage": 15
+      }
+    },
+
+    "North Carolina": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/NorthCarolina/mapNorthCarolina.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/NorthCarolina/flagNorthCarolina.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/NorthCarolina/stateNorthCarolina.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/NorthCarolina/signNorthCarolina.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/NorthCarolina/cityNorthCarolina.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/NorthCarolina/natureNorthCarolina.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "North Carolina",
+        "Nickname": "Tar Heel State",
+        "Population": 10698973,
+        "CapitalCity": "Raleigh",
+        "KnownFor": "North Carolina is known for first flight by Wright Brothers, college basketball, Biltmore Estate - The largest private residence in the United States, beaches and tobacco production",
+        "TouristAttractions": "Blue Ridge Parkway, Beaches of the Outer Banks and The Biltmore Estate",
+        "AbortionPolicy": "legal",
+        "Climate": "warm",
+        "AverageTemperature": 15,
+        "Politics": "red",
+        "AverageHousingPrices": 371100,
+        "AverageIncome": 57416,
+        "MaximumStateIncomeTax": 4.75,
+        "CostOfLivingIndex": 96.1,
+        "TopPerformingIndustries": "Manufacturing as well as Professional and Business Services",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "North Dakota": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/NorthDakota/mapNorthDakota.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/NorthDakota/flagNorthDakota.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/NorthDakota/stateNorthDakota.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/NorthDakota/signNorthDakota.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/NorthDakota/cityNorthDakota.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/NorthDakota/natureNorthDakota.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "North Dakota",
+        "Nickname": "Peace Garden State",
+        "Population": 779261,
+        "CapitalCity": "Bismarck",
+        "KnownFor": "North Dakota is known for scenic landscapes, oil and gas production, largest producer of honey, Native American culture",
+        "TouristAttractions": "Theodore Roosevelt National Park, National Buffalo Museum and North Dakota Heritage Center",
+        "AbortionPolicy": "pending in legality",
+        "Climate": "cool",
+        "AverageTemperature": 4.7,
+        "Politics": "red",
+        "AverageHousingPrices": 261931,
+        "AverageIncome": 66184,
+        "MaximumStateIncomeTax": 2.90,
+        "CostOfLivingIndex": 94.6,
+        "TopPerformingIndustries": "Mining, quarrying, and oil and gas extraction as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Ohio": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Ohio/mapOhio.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Ohio/flagOhio.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Ohio/stateOhio.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Ohio/signOhio.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Ohio/cityOhio.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Ohio/natureOhio.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Ohio",
+        "Nickname": "Buckeye State",
+        "Population": 11756058,
+        "CapitalCity": "Columbus",
+        "KnownFor": "Ohio is known for American football, rock and roll, roller coasters, corn and steel and rubber production",
+        "TouristAttractions": "Rock & Roll Hall of Fame, National Museum of the US Air Force and Cedar Point Amusement Park",
+        "AbortionPolicy": "pending in legality",
+        "Climate": "cool",
+        "AverageTemperature": 10.4,
+        "Politics": "red",
+        "AverageHousingPrices": 240900,
+        "AverageIncome": 57880,
+        "MaximumStateIncomeTax": 6.49,
+        "CostOfLivingIndex": 94,
+        "TopPerformingIndustries": "Manufacturing as well as Professional and Business Services",
+        "MinimumWage": 10.1
+      }
+    },
+    "Oklahoma": {
+      "images": [
+        {"category": "Map", "url": "img/Oklahoma/mapOklahoma.gif"},
+        {"category": "Flag", "url": "img/Oklahoma/flagOklahoma.jpg"},
+        {"category": "State", "url": "img/Oklahoma/stateOklahoma.jpg"},
+        {"category": "Landmarks", "url": "img/Oklahoma/signOklahoma.jpg"},
+        {"category": "Cities", "url": "img/Oklahoma/cityOklahoma.jpg"},
+        {"category": "Nature", "url": "img/Oklahoma/natureOklahoma.jpg"}
+      ],
+      "facts": {
+        "Name": "Oklahoma",
+        "Nickname": "Sooner State",
+        "Population": 4019800,
+        "CapitalCity": "Oklahoma City",
+        "KnownFor": "Oklahoma is known for American football, oil production, agriculture, particularly wheat, cattle, and oil seeds and tornadoes",
+        "TouristAttractions": "Route 66, Oklahoma City Zoo and Philbrook Museum of Art",
+        "AbortionPolicy": "banned",
+        "Climate": "warm",
+        "AverageTemperature": 15.3,
+        "Politics": "red",
+        "AverageHousingPrices": 253200,
+        "AverageIncome": 54998,
+        "MaximumStateIncomeTax": 4.75,
+        "CostOfLivingIndex": 86,
+        "TopPerformingIndustries": "Mining, quarrying, and oil and gas extraction as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Oregon": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Oregon/mapOregon.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Oregon/flagOregon.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Oregon/stateOregon.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Oregon/signOregon.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Oregon/cityOregon.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Oregon/natureOregon.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Oregon",
+        "Nickname": "Beaver State",
+        "Population": 4240137,
+        "CapitalCity": "Salem",
+        "KnownFor": "Oregon is known for the Oregon Trail, wild west past, wildlife, diverse, scenic landscape and wineries and vineyards in the Willamette Valley",
+        "TouristAttractions": "Crater Lake National Park, Columbia River Gorge National Scenic Area and Cannon Beach",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 9.1,
+        "Politics": "blue",
+        "AverageHousingPrices": 510900,
+        "AverageIncome": 62767,
+        "MaximumStateIncomeTax": 14.69,
+        "CostOfLivingIndex": 115.1,
+        "TopPerformingIndustries": "Real Estate as well as Manufacturing",
+        "MinimumWage": 14.2
+      }
+    },
+
+    "Pennsylvania": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Pennsylvania/mapPennsylvania.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Pennsylvania/flagPennsylvania.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Pennsylvania/statePennsylvania.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Pennsylvania/signPennsylvania.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Pennsylvania/cityPennsylvania.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Pennsylvania/naturePennsylvania.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Pennsylvania",
+        "Nickname": "Keystone State",
+        "Population": 12972008,
+        "CapitalCity": "Harrisburg",
+        "KnownFor": "Pennsylvania is known for the Declaration of Independence, Liberty Bell, Amish country, rolling mountains and Hershey's Chocolate",
+        "TouristAttractions": "Independence National Park and the Liberty Bell, Hershey Park and Gettysburg National Military Park",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 9.3,
+        "Politics": "red",
+        "AverageHousingPrices": 278700,
+        "AverageIncome": 65167,
+        "MaximumStateIncomeTax": 6.86,
+        "CostOfLivingIndex": 99,
+        "TopPerformingIndustries": "Professional and Business Services as well as Education and Healthcare",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Rhode Island": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/RhodeIsland/mapRhodeIsland.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/RhodeIsland/flagRhodeIsland.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/RhodeIsland/stateRhodeIsland.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/RhodeIsland/signRhodeIsland.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/RhodeIsland/cityRhodeIsland.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/RhodeIsland/natureRhodeIsland.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Rhode Island",
+        "Nickname": "Ocean State",
+        "Population": 1093734,
+        "CapitalCity": "Providence",
+        "KnownFor": "Rhode Island is known for spectacular coastline, seaside colonial towns, jewelry design, textile manufacturing and Newport Jazz Festival",
+        "TouristAttractions": "The Breakers, Cliff Walk and Roger Williams Park Zoo",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 10.1,
+        "Politics": "blue",
+        "AverageHousingPrices": 462100,
+        "AverageIncome": 65377,
+        "MaximumStateIncomeTax": 5.99,
+        "CostOfLivingIndex": 110.5,
+        "TopPerformingIndustries": "Real Estate as well as Education and Healthcare",
+        "MinimumWage": 13
+      }
+    },
+
+    "South Carolina": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/South Carolina/mapSouthCarolina.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/South Carolina/flagSouthCarolina.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/South Carolina/stateSouthCarolina.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/South Carolina/signSouthCarolina.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/South Carolina/citySouthCarolina.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/South Carolina/natureSouthCarolina.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "South Carolina",
+        "Nickname": "Palmetto State",
+        "Population": 5282634,
+        "CapitalCity": "Columbia",
+        "KnownFor": "South Carolina is known for beaches, fishing and hunting, golf courses, historic districts, lowcountry cuisine and the first state to succeed from the Union, leading to the Civil War",
+        "TouristAttractions": "Charleston's Historic District, Myrtle Beach and South Carolina Plantation Gardens",
+        "AbortionPolicy": "restricted",
+        "Climate": "warm",
+        "AverageTemperature": 16.9,
+        "Politics": "red",
+        "AverageHousingPrices": 374200,
+        "AverageIncome": 53320,
+        "MaximumStateIncomeTax": 6.50,
+        "CostOfLivingIndex": 96.5,
+        "TopPerformingIndustries": "Manufacturing as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "South Dakota": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/SouthDakota/mapSouthDakota.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/SouthDakota/flagSouthDakota.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/SouthDakota/stateSouthDakota.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/SouthDakota/signSouthDakota.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/SouthDakota/citySouthDakota.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/SouthDakota/natureSouthDakota.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "South Dakota",
+        "Nickname": "The Mount Rushmore State",
+        "Population": 909824,
+        "CapitalCity": "Pierre",
+        "KnownFor": "South Dakota is known for Mount Rushmore, agriculture, Native American culture and The Black Hills Gold Rush of the late 19th century",
+        "TouristAttractions": "Mount Rushmore National Monument, Custer State Park and Badlands National Park",
+        "AbortionPolicy": "banned",
+        "Climate": "cool",
+        "AverageTemperature": 7.3,
+        "Politics": "red",
+        "AverageHousingPrices": 297804,
+        "AverageIncome": 65806,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 93.8,
+        "TopPerformingIndustries": "Finance and Insurance as well as Education and Healthcare",
+        "MinimumWage": 10.8
+      }
+    },
+
+    "Tennessee": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Tennessee/mapTennessee.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Tennessee/flagTennessee.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Tennessee/stateTennessee.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Tennessee/signTennessee.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Tennessee/cityTennessee.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Tennessee/natureTennessee.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Tennessee",
+        "Nickname": "Volunteer State",
+        "Population": 7051339,
+        "CapitalCity": "Nashville",
+        "KnownFor": "Tennessee is known for country music, whiskey, Graceland and Elvis and Tennessee whiskey",
+        "TouristAttractions": "The Great Smoky Mountains National Park, Graceland and Dollywood",
+        "AbortionPolicy": "banned",
+        "Climate": "warm",
+        "AverageTemperature": 14.2,
+        "Politics": "red",
+        "AverageHousingPrices": 377200,
+        "AverageIncome": 58279,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 90.4,
+        "TopPerformingIndustries": "Manufacturing as well as Professional and Business Services",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Texas": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Texas/mapTexas.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Texas/flagTexas.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Texas/stateTexas.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Texas/signTexas.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Texas/cityTexas.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Texas/natureTexas.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Texas",
+        "Nickname": "Lone Star State",
+        "Population": 30029572,
+        "CapitalCity": "Austin",
+        "KnownFor": "Texas is known for hot weather, cowboy culture, ranching and cattle, oil production, The Alamo and NASA",
+        "TouristAttractions": "San Antonio's River Walk, The Alamo and Space Center Houston",
+        "AbortionPolicy": "banned",
+        "Climate": "warm",
+        "AverageTemperature": 18.2,
+        "Politics": "red",
+        "AverageHousingPrices": 357800,
+        "AverageIncome": 61985,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 93,
+        "TopPerformingIndustries": "Manufacturing as well as Professional and Business Services",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Utah": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Utah/mapUtah.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Utah/flagUtah.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Utah/stateUtah.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Utah/signUtah.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Utah/cityUtah.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Utah/natureUtah.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Utah",
+        "Nickname": "Beehive State",
+        "Population": 3380800,
+        "CapitalCity": "Salt Lake City",
+        "KnownFor": "Utah is known for The Great Salt Lake, the largest salt water lake in the Western Hemisphere, skiing, National parks, mormons and Sundance Film Festival",
+        "TouristAttractions": "Zion National Park, Arches National Park and Monument Valley",
+        "AbortionPolicy": "pending legality",
+        "Climate": "cool",
+        "AverageTemperature": 9.2,
+        "Politics": "red",
+        "AverageHousingPrices": 529600,
+        "AverageIncome": 57925,
+        "MaximumStateIncomeTax": 4.85,
+        "CostOfLivingIndex": 101.5,
+        "TopPerformingIndustries": "Real Estate as well as Professional and Business Services",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Vermont": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Vermont/mapVermont.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Vermont/flagVermont.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Vermont/stateVermont.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Vermont/signVermont.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Vermont/cityVermont.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Vermont/natureVermont.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Vermont",
+        "Nickname": "Green Mountain State",
+        "Population": 647064,
+        "CapitalCity": "Montpelier",
+        "KnownFor": "Vermont is known for small towns and covered bridges, green mountains, farms, wineries and breweries, Ben & Jerry's and maple syrup",
+        "TouristAttractions": "Stowe, Church Street Marketplace and Hildene",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 6.1,
+        "Politics": "blue",
+        "AverageHousingPrices": 385300,
+        "AverageIncome": 63206,
+        "MaximumStateIncomeTax": 8.75,
+        "CostOfLivingIndex": 114.9,
+        "TopPerformingIndustries": "Real Estate as well as Education and Healthcare",
+        "MinimumWage": 13.18
+      }
+    },
+
+    "Virginia": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Virginia/mapVirginia.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Virginia/flagVirginia.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Virginia/stateVirginia.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Virginia/signVirginia.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Virginia/cityVirginia.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Virginia/natureVirginia.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Virginia",
+        "Nickname": "The Old Dominion",
+        "Population": 8683619,
+        "CapitalCity": "Richmond",
+        "KnownFor": "Virginia is known for Appalachian Trail, The Arlington National Cemetery, Chesapeake Bay Bridge Tunnel, presidential homes, Capital of the Confederacy, Jamestown, the first permanent English settlement in the Americas",
+        "TouristAttractions": "Shenandoah National Park and Skyline Drive, Colonial Williamsburg and Virginia Beach",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 12.8,
+        "Politics": "blue",
+        "AverageHousingPrices": 440200,
+        "AverageIncome": 68211,
+        "MaximumStateIncomeTax": 5.75,
+        "CostOfLivingIndex": 103.1,
+        "TopPerformingIndustries": "Professional and Business Services as well as Real Estate",
+        "MinimumWage": 12
+      }
+    },
+
+    "Washington": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Washington/mapWashington.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Washington/flagWashington.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Washington/stateWashington.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Washington/signWashington.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Washington/cityWashington.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Washington/natureWashington.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Washington",
+        "Nickname": "Evergreen State",
+        "Population": 7785786,
+        "CapitalCity": "Olympia",
+        "KnownFor": "Washington is known for beautiful scenery, agriculture, birthplace of Starbucks, aerospace industry and home of Boeing and home of high tech giants Microsoft and Amazon",
+        "TouristAttractions": "Olympic National Park, Seattle Center and the Space Needle and San Juan Islands",
+        "AbortionPolicy": "legal",
+        "Climate": "cool",
+        "AverageTemperature": 9.1,
+        "Politics": "blue",
+        "AverageHousingPrices": 618000,
+        "AverageIncome": 75698,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 115.1,
+        "TopPerformingIndustries": "Real Estate as well as Information",
+        "MinimumWage": 15.74
+      }
+    },
+
+    "West Virginia": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/WestVirginia/mapWestVirginia.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/WestVirginia/flagWestVirginia.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/WestVirginia/stateWestVirginia.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/WestVirginia/signWestVirginia.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/WestVirginia/cityWestVirginia.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/WestVirginia/natureWestVirginia.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "West Virginia",
+        "Nickname": "Mountain State",
+        "Population": 1775156,
+        "CapitalCity": "Charleston",
+        "KnownFor": "West Virginia is known for scenic mountain beauty, coal mining industry, outdoor adventure opportunities and historic sites",
+        "TouristAttractions": "Blackwater Falls State Park, Monongahela National Forest and Seneca Rocks and The Greenbrier",
+        "AbortionPolicy": "banned",
+        "Climate": "cool",
+        "AverageTemperature": 11,
+        "Politics": "red",
+        "AverageHousingPrices": 304400,
+        "AverageIncome": 49169,
+        "MaximumStateIncomeTax": 6.50,
+        "CostOfLivingIndex": 90.3,
+        "TopPerformingIndustries": "Education and Healthcare as well as Manufacturing",
+        "MinimumWage": 8.75
+      }
+    },
+
+    "Wisconsin": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Wisconsin/mapWisconsin.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Wisconsin/flagWisconsin.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Wisconsin/stateWisconsin.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Wisconsin/signWisconsin.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Wisconsin/cityWisconsin.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Wisconsin/natureWisconsin.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Wisconsin",
+        "Nickname": "Badger State",
+        "Population": 5892539,
+        "CapitalCity": "Madison",
+        "KnownFor": "Wisconsin is known for cheese, dairy production, beer, cold winters, outdoor activities and Native American culture",
+        "TouristAttractions": "Oshkosh, Frank Lloyd Wright's Perfect Country Home and Wisconsin State Capitol",
+        "AbortionPolicy": "banned",
+        "Climate": "cool",
+        "AverageTemperature": 6.2,
+        "Politics": "red",
+        "AverageHousingPrices": 297100,
+        "AverageIncome": 61210,
+        "MaximumStateIncomeTax": 7.65,
+        "CostOfLivingIndex": 95,
+        "TopPerformingIndustries": "Manufacturing and Real Estate",
+        "MinimumWage": 7.25
+      }
+    },
+
+    "Wyoming": {
+      "images": [
+        {
+          "category": "Map",
+          "url": "img/Wyoming/mapWyoming.gif"
+        },
+        {
+          "category": "Flag",
+          "url": "img/Wyoming/flagWyoming.jpg"
+        },
+        {
+          "category": "State",
+          "url": "img/Wyoming/stateWyoming.jpg"
+        },
+        {
+          "category": "Landmarks",
+          "url": "img/Wyoming/signWyoming.jpg"
+        },
+        {
+          "category": "Cities",
+          "url": "img/Wyoming/cityWyoming.jpg"
+        },
+        {
+          "category": "Nature",
+          "url": "img/Wyoming/natureWyoming.jpg"
+        }
+      ],
+      "facts": {
+        "Name": "Wyoming",
+        "Nickname": "Equality State",
+        "Population": 581381,
+        "CapitalCity": "Cheyenne",
+        "KnownFor": "Wyoming is known for Yellowstone National Park, Devil's Tower, diverse wildlife, hot springs, oil and gas production and the harsh environment",
+        "TouristAttractions": "Yellowstone National Park, Grand Teton National Park and Jackson",
+        "AbortionPolicy": "pending legality",
+        "Climate": "cool",
+        "AverageTemperature": 5.6,
+        "Politics": "red",
+        "AverageHousingPrices": 276000,
+        "AverageIncome": 71342,
+        "MaximumStateIncomeTax": 0,
+        "CostOfLivingIndex": 92.8,
+        "TopPerformingIndustries": "Mining, quarrying, and oil and gas extraction as well as Real Estate",
+        "MinimumWage": 7.25
+      }
+    }
+  }
+]
